@@ -1,0 +1,90 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, fullpage}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+\begin{document}
+
+\title{Sincronización}
+\author{Jesus H. Abundis}
+%\date{\vspace{-5ex}}
+\maketitle
+\thispagestyle{empty}
+
+\vspace{10pt}
+Una manera de crear consistencia entre múltiples actualizaciones concurrentes de datos podría ser utilizar el tiempo como un ordenador canónico.
+Si esto fuera viable podríamos simplemente hacer que todas las replicas de los datos apliquen las actualizaciones en el orden exacto en que ocurrieron.
+
+Desafortunadamente no podemos depender en un reloj global en los sitemas distribuidos. 
+Cada máquina tiene su reloj local y, 
+sin medidas adicionales,
+estos relojes no están sincronizados y no corren a la misma velocidad,
+ocasionando una deriva en el reloj a través del tiempo.
+En esencia, 
+el tiempo es simplemente un caso especial de un estado global con el que no contamos en sistemas distribuidos.
+
+\begin{figure}[h]
+   \centering
+   \includegraphics[scale=0.5]{red_distribuida.png}
+\end{figure}
+
+Mientras existen enfoques para sincronizar relojes en tiempo real, 
+tales como NTP y Truetime, 
+algunos sistemas pueden tolerar no conocer el tiempo exacto.
+Por ejemplo,
+un juego que emplea una simulación distribuida puede no importarle cuando ocurre cada acción exactamente.
+Sólo necesita saber en que paso de la simulación se realiza cada acción.
+Esto reduce el problema a determinar el orden de las acciones,
+en lugar del momento exacto de cada acción.
+Los relojes lógicos son una solución bien conocida para decidir el orden de las operaciones. 
+Aquí discutimos dos ejemplos bien conocidos de tales relojes:
+los relojes Lamport y relojes vectoriales.
+
+Los relojes Lamport no llevan un registro del tiempo real sino que cuentan el número de eventos en una máquina. 
+Enviar y recibir mensajes cuentan como eventos.
+Al algoritmo no le importa qué más cuenta como evento.
+Esto produce un incremento monotónico del valor en todas las máquinas.
+Los relojes Lamport se construyen alrededor del concepto de una relación pasó-antes entre eventos.
+Si $a$ y $b$ son eventos, 
+entonces $a \to b$ significa que el evento $a$ ocurrió antes que el $b$.
+Los siguientes pares de eventos tienen relaciones pasó-antes:
+
+\begin{enumerate}
+   \item Todos los eventos que ocurren en un único sistema tienen una relación pasó-antes.
+
+   \item Los eventos que ocurren en diferentes equipos tiene una relación pasó-antes si se encuentran conectados mediante el envío y recepción de mensajes.
+   Si un proceso $P1$ envía un mensaje a $P2$, 
+   entonces todos los eventos en $P1$ que ocurrieron antes de la operación de envío, 
+   también ocurrieron antes que todos los eventos en $P2$ en el momento en que $P2$ recibe el mensaje.
+\end{enumerate}
+
+Las equipos añaden una estampa de tiempo (su valor de reloj Lamport actual) a cada mensaje que envían. 
+Un receptor compara la estampa temporal con su reloj propio.
+Si la estampa temporal es menor a su valor de reloj actual no hace nada.
+Por otro lado, 
+cuando la estampa es mayor a su valor de reloj actual,
+el receptor actualiza su reloj al valor de dicha estampa incrementado en una unidad.
+Al hacer esto se garantiza que si el evento $a$ ocurrió antes que $b$,
+entonces el valor del reloj lógico de $a$ es menor al de $b$.
+
+\begin{figure}[h]
+   \centering
+   \includegraphics[scale=0.5]{Lamport_clocks.png}
+\end{figure}
+
+En esta figura se muestra un ejemplo de tres equipos utilizando relojes Lamport.
+Dos eventos tienen una relación pasó-antes si existe un camino desde el primer al segundo evento ya sea moviéndose a lo largo de un mismo proceso o siguiendo un mensaje a otro proceso.
+Por ejemplo, el evento con estampa 1 en el proceso $P3$ ocurrió antes que el evento con estampa 4 en $P1$.
+
+Observa que cuando el evento enviado por el proceso $P1$ con estampa temporal 6 es recibido en $P2$,
+este tiene una estampa menor a la estampa local en $P2$ (7).
+El reloj Lamport se incrementa en consecuencia a 8 (el máximo entre las estampas local y del mensaje, más uno).
+
+Los eventos que no cuentan con una relación pasó-antes se definen como \emph{concurrentes}.
+En el contexto de relojes lógicos,
+concurrente no significa que los eventos se ejecutan en el mismo momento.
+En este caso, concurrente indica que el sistema no se ve afectado por el orden de estas operaciones;
+el sistema habría llegado al mismo estado sin importar cuál evento ocurrió primero en tiempo real.
+En el ejemplo superior, el mensaje enviado desde $P3$ en el momento 6 y el mensaje enviado por $P1$ en el tiempo 6 son concurrentes aún cuando no ocurrieron en el mismo instante.
+
+\end{document}
