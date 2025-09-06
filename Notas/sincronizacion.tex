@@ -1,5 +1,6 @@
 \documentclass[12pt]{article}
 \usepackage{amsmath, fullpage}
+\usepackage{amssymb}
 \usepackage{graphicx}
 \graphicspath{ {./images/} }
 
@@ -86,5 +87,75 @@ concurrente no significa que los eventos se ejecutan en el mismo momento.
 En este caso, concurrente indica que el sistema no se ve afectado por el orden de estas operaciones;
 el sistema habría llegado al mismo estado sin importar cuál evento ocurrió primero en tiempo real.
 En el ejemplo superior, el mensaje enviado desde $P3$ en el momento 6 y el mensaje enviado por $P1$ en el tiempo 6 son concurrentes aún cuando no ocurrieron en el mismo instante.
+
+Los relojes Lamport pueden utilizarse para crear un orden total en las operaciones.
+Un equipo que envía un request,
+agrega su valor de reloj Lamport y lo envía a todos las otras máquinas.
+Los receptores colocan a los mensajes entrantes en un queue ordenado por su valor de reloj y envían un acuse de recibido al emisor y a todos los otros equipos.
+De ser necesario,
+las computadoras actualizan su propio valor de reloj basadas en el valor agregado en el mensaje que reciben.
+Finalmente,
+los equipos envían un mensaje (y lo eliminan del queue) si este se encuentra al principio del queue y si se ha notificado su recepción por parte de los otros equipos.
+Una desventaja de este algoritmo es su ineficiencia;
+Cada operación requiere $n^2$ mensajes para $n$ computadoras.
+
+Aunque los relojes Lamport pueden utilizarse para generar un orden total,
+el comparar dos eventos con estampas de tiempo $x$ y $y$ donde $x < y$,
+no puede decirnos si $x$ ocurrió antes que $y$.
+Sólo podemos concluir que $y$ no ocurrió antes que $x$,
+es decir,
+$x$ ocurrió antes que $y$,
+o bien $x$ y $y$ son concurrentes.
+
+En contraste, los relojes vectoriales,
+los cuales son una extensión de los relojes Lamport,
+capturan la causalidad.
+Los relojes vectoriales nos permiten determinar,
+para cada par de eventos,
+cuál ocurrió primero de los dos,
+o bien que son concurrentes,
+simplemente inspeccionando sus valores de reloj.
+Para lograr esto,
+las máquinas no sólo almacenan su propio reloj Lamport
+sino también el de todas las otras,
+generando de esta manera un vector de relojes.
+
+Las máquinas actualizan su propio reloj Lamport utilizando las mismas reglas utilizadas para un reloj Lamport tradicional.
+Las otras entradas del vector,
+es decir,
+las entradas que corresponden a las otras máquinas,
+se actualizan cuando se reciben los relojes vectoriales de estas.
+Cada máquina agrega a cada mensaje una copia de su reloj vectorial.
+Cuando los equipos reciben un mensaje,
+estas actualizan su reloj vectorial incrementando su contador propio por una unidad y,
+posteriormente,
+actualizando las demás entradas del vector tomando el máximo entre pares de valor correspondientes.
+A continuación se muestra un ejemplo de máquinas empleando relojes vectoriales:
+
+\begin{figure}[h]
+   \centering
+   \includegraphics[scale=0.5]{vector_clocks.png}
+\end{figure}
+
+Conocer la causalidad de cada par de eventos es trivial ahora;
+para un par de eventos,
+$a$ y $b$,
+$a$ ocurrió antes que $b$ si el vector de estampas de tiempo para $a$ es estrictamente menor que el de $b$ elemento a elemento.
+Si la estampa de un evento,
+no es estrictamente más grande que la estampa correspondiente al otro,
+los eventos son concurrentes.
+Observando la figura,
+vemos que el evento con estampa (2, 1, 0) en $P1$
+ocurrió antes que el evento con estampa (2, 3, 1) en $P3$,
+debido a que $2 \leqslant 2$,
+$1 < 3$
+y
+$0 < 1$.
+Por otro lado,
+un evento con estampa (2, 3, 0) en $P_2$,
+es concurrente con un evento con estampa (3, 1, 0) en $P_1$ debido a que
+$(3, 1, 0) \nleqslant (2, 3, 0)$
+y
+$(2, 3, 0) \nleqslant (3, 1, 0)$.
 
 \end{document}
