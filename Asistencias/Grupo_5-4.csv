@@ -1,0 +1,70 @@
+Tabla 1
+Nombre,25-ago,26-ago,27-ago,28-ago,29-ago,1-sep,2-sep,3-sep,4-sep,8-sep,9-sep,10-sep,11-sep,12-sep
+Anaya Mejia Luis Fernando,1,1,1,1,1,1,0,1,1,1,1,1,1,0
+Camacho Cañedo Gabriel alejandro,1,1,0,1,1,0,1,1,0,0,0,0,1,0
+Cansino Perez Jonathan miguel,1,1,1,1,0,1,0,1,1,1,1,1,1,0
+Castro Avila Victor Enrique,1,0,1,1,0,1,0,1,1,0,1,1,1,1
+Celis Lara Kevin Israel,1,0,1,1,0,1,0,1,0,1,0,1,1,0
+Chavez Aguirre Juan Fernando,1,0,1,0,0,1,0,1,1,1,1,1,1,1
+Contreras Castañeda Fernando,1,1,1,0,0,1,1,1,0,1,1,1,1,0
+Elizalde Ochoa Ricardo,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Espinoza Mendez Arturo de Jesus,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Galicia Morales Francisco Eduardo,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Garcia Felix Juan Carlos,1,0,0,0,0,1,0,1,1,1,1,1,0,0
+Garcia Perez Jose Rosario,1,1,1,0,0,1,0,1,1,1,0,1,1,0
+Guzmán Leyva Angel Antonio,1,0,1,1,0,1,0,1,1,1,0,1,1,0
+Guzman Rodriguez José Gael,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lopez Alvarez Maria de los Angeles,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+Lopez Montelongo Jesus Irrobel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+López Ramos José Raúl,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Madrigales Espinoza Lizeth,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+Martinez Gonzalez Leoncio Daniel,1,1,1,0,1,1,0,1,1,1,1,1,1,1
+Medina Sandoval Jesús Eduardo ,1,1,1,1,1,1,0,1,1,1,1,1,1,1
+Montoya Vidales Lourdes,1,0,1,0,0,1,0,0,0,1,1,1,1,1
+Moras Sánchez Miguel Ángel,0,0,0,0,0,1,0,1,1,0,0,1,1,0
+Moreno Kazandra de los Angeles,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Paredes Felix Sergio De Jesus,1,1,1,1,0,1,1,1,1,1,1,1,0,1
+Rico Zatarain José Francisco,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Rodelo Sabalza Osvaldo,1,0,1,0,0,0,0,1,1,1,1,1,1,0
+Salazar Rochin Israel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Torres Del Agua Tlaloc Enrique,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Urias Rodriguez Jesus Martin,1,1,1,1,0,1,0,1,1,1,1,1,1,0
+Velazquez Gaspar Xitlaly Guadalupe,1,0,1,1,1,1,0,1,1,1,1,1,1,1
+Zamudio Meza Jose Javier,0,1,1,1,0,1,0,1,0,1,1,1,1,0
+Zazueta Gonzalez Cesar Aory,1,1,1,1,0,0,0,1,0,1,1,1,0,0
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Resumen,Clases Totales:,14,,,,,,,,,,,,
+Estudiante,Asistencias,Faltas,Promedio Asistencias,,,,,,,,,,,
+Anaya Mejia Luis Fernando,12,2,86,,,,,,,,,,,
+Camacho Cañedo Gabriel alejandro,7,7,50,,,,,,,,,,,
+Cansino Perez Jonathan miguel,11,3,79,,,,,,,,,,,
+Castro Avila Victor Enrique,10,4,71,,,,,,,,,,,
+Celis Lara Kevin Israel,8,6,57,,,,,,,,,,,
+Chavez Aguirre Juan Fernando,10,4,71,,,,,,,,,,,
+Contreras Castañeda Fernando,10,4,71,,,,,,,,,,,
+Elizalde Ochoa Ricardo,14,0,100,,,,,,,,,,,
+Espinoza Mendez Arturo de Jesus,14,0,100,,,,,,,,,,,
+Galicia Morales Francisco Eduardo,13,1,93,,,,,,,,,,,
+Garcia Felix Juan Carlos,7,7,50,,,,,,,,,,,
+Garcia Perez Jose Rosario,9,5,64,,,,,,,,,,,
+Guzmán Leyva Angel Antonio,9,5,64,,,,,,,,,,,
+Guzman Rodriguez José Gael,14,0,100,,,,,,,,,,,
+Lopez Alvarez Maria de los Angeles,13,1,93,,,,,,,,,,,
+Lopez Montelongo Jesus Irrobel,14,0,100,,,,,,,,,,,
+López Ramos José Raúl,13,1,93,,,,,,,,,,,
+Madrigales Espinoza Lizeth,13,1,93,,,,,,,,,,,
+Martinez Gonzalez Leoncio Daniel,12,2,86,,,,,,,,,,,
+Medina Sandoval Jesús Eduardo ,13,1,93,,,,,,,,,,,
+Montoya Vidales Lourdes,8,6,57,,,,,,,,,,,
+Moras Sánchez Miguel Ángel,5,9,36,,,,,,,,,,,
+Moreno Kazandra de los Angeles,13,1,93,,,,,,,,,,,
+Paredes Felix Sergio De Jesus,12,2,86,,,,,,,,,,,
+Rico Zatarain José Francisco,13,1,93,,,,,,,,,,,
+Rodelo Sabalza Osvaldo,8,6,57,,,,,,,,,,,
+Salazar Rochin Israel,14,0,100,,,,,,,,,,,
+Torres Del Agua Tlaloc Enrique,14,0,100,,,,,,,,,,,
+Urias Rodriguez Jesus Martin,11,3,79,,,,,,,,,,,
+Velazquez Gaspar Xitlaly Guadalupe,12,2,86,,,,,,,,,,,
+Zamudio Meza Jose Javier,9,5,64,,,,,,,,,,,
+Zazueta Gonzalez Cesar Aory,8,6,57,,,,,,,,,,,

@@ -1,0 +1,78 @@
+Tabla 1
+Nombre,25-ago,26-ago,27-ago,28-ago,1-sep,2-sep,3-sep,4-sep,8-sep,9-sep,10-sep,11-sep,12-sep
+ALVAREZ ESPINOZA VICTOR MANUEL,1,1,1,0,0,0,0,0,0,0,0,0,0
+Alvizu Zazueta Jesús Eduardo ,1,0,1,1,1,1,1,1,1,1,0,1,1
+Amador Manjarréz Juan José ,1,1,1,1,0,0,1,1,1,1,1,0,1
+Ayala Hernandez Luis Angel,0,0,1,1,1,1,0,0,1,0,0,0,0
+Benitez Valenzuela Zahir,0,0,1,1,1,1,1,0,1,1,0,0,0
+Campaña Silvas Esteban Baltazar,1,1,1,1,1,1,1,1,1,1,1,1,1
+Chaparro Corrales Javier,1,0,1,0,1,0,1,1,1,0,1,1,1
+Corral Ramirez Melanie Guadalupe,1,1,1,1,1,1,1,1,1,1,0,1,1
+Cortes Sainz Cristian Adlai ,1,1,1,1,1,1,1,1,1,1,1,0,1
+Corvera Quevedo Jhonan Ismael,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cruz Valdez Cesar Fidel,0,1,1,1,1,0,0,0,0,0,1,1,0
+De la Rocha Paez Jose Ignacio,1,1,0,1,1,1,1,0,1,1,1,1,0
+Espinoza Garcia Cristian Edgardo,1,1,1,1,0,1,1,1,1,1,1,1,1
+Galindo Meléndrez Raúl Caleb,1,0,1,1,1,1,1,1,1,0,1,0,0
+Galindo Melendrez Sergio Jesus,1,1,0,1,1,1,1,1,1,1,1,0,0
+Gallardo Garcia Gerardo Gael ,1,0,0,0,1,1,0,1,1,0,1,1,0
+Garcia Uriarte Michelle,1,1,1,1,1,1,1,1,1,1,0,1,1
+Gómez Beltrán Oscar Edrian ,1,1,1,1,0,0,1,0,0,1,0,1,0
+Herrera Garcia Daniel Romaldo,0,1,1,0,1,0,1,1,1,0,1,1,0
+Herrera Martínez Josúe Nicolás ,1,1,1,1,1,0,1,0,1,1,1,1,0
+Higuera Medina Jocelyn Guadalupe ,1,1,1,1,1,1,0,0,1,0,1,1,0
+Lizarraga Roman Jesús Gamaliel,1,1,1,1,1,1,1,1,1,1,1,1,1
+López López Heliodoro,1,1,1,1,0,1,1,1,1,1,1,1,1
+Martinez Pacheco Reynaldo Jair,1,1,1,1,1,1,1,1,1,1,1,1,1
+Meza Corrales Larizza Janeth,1,0,1,0,0,1,1,1,1,0,0,0,0
+Murillo Bracamontes Jennifer,1,1,1,1,1,1,1,0,1,1,1,1,0
+Najar Pantoja Roberto Carlos ,1,0,1,1,1,1,0,1,1,0,1,1,0
+Olague López Luis Fernando,1,1,0,1,1,1,1,1,1,1,1,1,1
+Pineda Camacho Luis Leobardo ,1,1,1,1,1,1,1,1,1,1,1,1,1
+Quiñonez Terán Jesus Smith ,1,1,1,1,1,1,1,0,1,1,1,1,0
+Ríos Ballesteros Benjamin,1,0,1,0,1,0,1,0,1,0,0,0,1
+Rodríguez Astorga José Gilberto ,1,0,1,1,0,1,1,1,1,1,1,1,0
+Ruiz Orduño Eduardo,1,1,1,1,1,1,1,1,1,1,1,1,1
+Serrano Montes Gilberto Alonso ,1,0,1,0,1,0,1,1,1,1,1,1,1
+Torres Moreno Christian Oswaldo,1,1,1,1,0,1,1,1,0,0,0,1,0
+Villa Gastelum Roberto Carlos,1,1,1,0,1,0,1,1,1,0,1,1,1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Resumen,Clases Totales:,13,,,,,,,,,,,
+Estudiante,Asistencias,Faltas,Promedio Asistencias,,,,,,,,,,
+ALVAREZ ESPINOZA VICTOR MANUEL,3,10,23,,,,,,,,,,
+Alvizu Zazueta Jesús Eduardo ,11,2,85,,,,,,,,,,
+Amador Manjarréz Juan José ,10,3,77,,,,,,,,,,
+Ayala Hernandez Luis Angel,5,8,38,,,,,,,,,,
+Benitez Valenzuela Zahir,7,6,54,,,,,,,,,,
+Campaña Silvas Esteban Baltazar,13,0,100,,,,,,,,,,
+Chaparro Corrales Javier,9,4,69,,,,,,,,,,
+Corral Ramirez Melanie Guadalupe,12,1,92,,,,,,,,,,
+Cortes Sainz Cristian Adlai ,12,1,92,,,,,,,,,,
+Corvera Quevedo Jhonan Ismael,13,0,100,,,,,,,,,,
+Cruz Valdez Cesar Fidel,6,7,46,,,,,,,,,,
+De la Rocha Paez Jose Ignacio,10,3,77,,,,,,,,,,
+Espinoza Garcia Cristian Edgardo,12,1,92,,,,,,,,,,
+Galindo Meléndrez Raúl Caleb,9,4,69,,,,,,,,,,
+Galindo Melendrez Sergio Jesus,10,3,77,,,,,,,,,,
+Gallardo Garcia Gerardo Gael ,7,6,54,,,,,,,,,,
+Garcia Uriarte Michelle,12,1,92,,,,,,,,,,
+Gómez Beltrán Oscar Edrian ,7,6,54,,,,,,,,,,
+Herrera Garcia Daniel Romaldo,8,5,62,,,,,,,,,,
+Herrera Martínez Josúe Nicolás ,10,3,77,,,,,,,,,,
+Higuera Medina Jocelyn Guadalupe ,9,4,69,,,,,,,,,,
+Lizarraga Roman Jesús Gamaliel,13,0,100,,,,,,,,,,
+López López Heliodoro,12,1,92,,,,,,,,,,
+Martinez Pacheco Reynaldo Jair,13,0,100,,,,,,,,,,
+Meza Corrales Larizza Janeth,6,7,46,,,,,,,,,,
+Murillo Bracamontes Jennifer,11,2,85,,,,,,,,,,
+Najar Pantoja Roberto Carlos ,9,4,69,,,,,,,,,,
+Olague López Luis Fernando,12,1,92,,,,,,,,,,
+Pineda Camacho Luis Leobardo ,13,0,100,,,,,,,,,,
+Quiñonez Terán Jesus Smith ,11,2,85,,,,,,,,,,
+Ríos Ballesteros Benjamin,6,7,46,,,,,,,,,,
+Rodríguez Astorga José Gilberto ,10,3,77,,,,,,,,,,
+Ruiz Orduño Eduardo,13,0,100,,,,,,,,,,
+Serrano Montes Gilberto Alonso ,10,3,77,,,,,,,,,,
+Torres Moreno Christian Oswaldo,8,5,62,,,,,,,,,,
+Villa Gastelum Roberto Carlos,10,3,77,,,,,,,,,,

@@ -1,0 +1,94 @@
+Hoja 1: Tabla 1
+Nombre,25-ago,26-ago,27-ago,28-ago,29-ago,1-sep,2-sep,3-sep,4-sep,5-sep,8-sep,9-sep,10-sep,11-sep
+Aguilar Perez Axel Manuel ,1,1,1,1,1,0,1,1,1,1,1,0,1,0
+Aguiñaga Gamboa Manuel,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Aguirre Mariscal Jesús David,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+AISPURO AISPURO ELISA MARILI,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Audelo Cabanillas Jose Noe,1,0,1,1,1,1,1,1,1,0,0,1,1,1
+Barraza Acosta José Sebastián,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Barroso Salas Ximena Guadalupe,1,1,1,1,1,1,1,1,1,0,1,0,1,1
+Beltrán Zepeda Yadira Monserrat,1,1,1,1,1,1,1,1,1,0,0,1,1,1
+Bernal Caro Jesús Roberto,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cano Corvera Jesus Enrique,0,0,0,1,1,1,1,1,1,1,0,1,1,1
+Cazarez Jimenez Juan Gabriel,1,1,1,0,1,1,1,0,1,0,1,1,1,1
+Cervantes Hernández José Felipe,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Chavez Ambriz Christofer Jesus,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+Cinco Romero Rodolfo,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Colado Corrales Jorge Armando,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+Diaz Zamora Dante Emmanuel,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Duarte Llanes Gabriel Eduardo,1,1,1,1,1,0,1,1,1,0,0,1,1,1
+Fierro Moroyoqui Juan Carlos,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+Garcia Lopez Edgar Daniel,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+Garcia Soto Antonio Sebastian,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+Gonzalez Valenzuela Brenda Nayeli,1,0,1,1,0,0,0,0,1,0,1,1,1,1
+GUERRERO DIAZ CARLOS ADOLFO,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HIGUERA ÁVILA CESAR,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Juárez Sánchez David Eduardo,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Landeros Aispuro Javier Eduardo ,1,1,1,0,1,1,1,1,1,1,0,1,1,1
+Loaiza Ramirez Jose Fernando,1,0,1,0,1,1,1,1,0,1,0,0,0,0
+Lopez Urías Yahir Yojhary,1,1,0,0,1,1,1,1,1,0,0,1,1,1
+Medina Herrera Daniel Valentin ,1,1,1,0,0,0,1,0,1,0,0,0,0,0
+Melchor Sarabia Jesus Antonio,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Moreno Franco Jaime Alejandro,1,0,1,1,0,1,0,0,1,0,1,1,0,1
+Núñez Avena Héctor de Jesús,1,1,1,1,1,1,1,1,0,0,1,1,1,1
+Olivas Bueno Jennifer,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Perez Ontiveros Reynaldo Aldair,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+Ramirez De la o Josue Alberto,1,1,1,1,1,1,0,1,1,1,0,1,1,1
+Rodríguez Alvarado José Emmanuel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Rodriguez Martínez Jesús Eduardo,1,1,1,1,1,1,1,0,1,0,1,1,1,1
+Sánchez Morales Josué Abelardo,1,1,1,1,1,1,1,1,0,0,0,1,0,1
+Santos Contreras Brian Alejandro,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Tapia Pérez Jesus Noe ,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Valdez Leal Roberto Carlos,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Vazquez Godoy Gerardo Neftali,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Villarreal Zazueta Victor,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Zavala Mata Martín de Jesús,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Zazueta Arce Alfonso,0,0,0,0,0,0,1,1,0,0,1,1,1,1
+
+Hoja 1: Resumen
+Clases Totales:,14,,
+Estudiante,Asistencias,Faltas,Promedio
+Aguilar Perez Axel Manuel ,11,3,79
+Aguiñaga Gamboa Manuel,13,1,93
+Aguirre Mariscal Jesús David,3,11,21
+AISPURO AISPURO ELISA MARILI,14,0,100
+Audelo Cabanillas Jose Noe,11,3,79
+Barraza Acosta José Sebastián,14,0,100
+Barroso Salas Ximena Guadalupe,12,2,86
+Beltrán Zepeda Yadira Monserrat,12,2,86
+Bernal Caro Jesús Roberto,14,0,100
+Cano Corvera Jesus Enrique,10,4,71
+Cazarez Jimenez Juan Gabriel,11,3,79
+Cervantes Hernández José Felipe,13,1,93
+Chavez Ambriz Christofer Jesus,13,1,93
+Cinco Romero Rodolfo,1,13,7
+Colado Corrales Jorge Armando,12,2,86
+Diaz Zamora Dante Emmanuel,13,1,93
+Duarte Llanes Gabriel Eduardo,11,3,79
+Fierro Moroyoqui Juan Carlos,8,6,57
+Garcia Lopez Edgar Daniel,13,1,93
+Garcia Soto Antonio Sebastian,13,1,93
+Gonzalez Valenzuela Brenda Nayeli,8,6,57
+GUERRERO DIAZ CARLOS ADOLFO,14,0,100
+HIGUERA ÁVILA CESAR,13,1,93
+Juárez Sánchez David Eduardo,14,0,100
+Landeros Aispuro Javier Eduardo ,12,2,86
+Loaiza Ramirez Jose Fernando,7,7,50
+Lopez Urías Yahir Yojhary,10,4,71
+Medina Herrera Daniel Valentin ,5,9,36
+Melchor Sarabia Jesus Antonio,13,1,93
+Moreno Franco Jaime Alejandro,8,6,57
+Núñez Avena Héctor de Jesús,12,2,86
+Olivas Bueno Jennifer,13,1,93
+Perez Ontiveros Reynaldo Aldair,12,2,86
+Ramirez De la o Josue Alberto,12,2,86
+Rodríguez Alvarado José Emmanuel,14,0,100
+Rodriguez Martínez Jesús Eduardo,12,2,86
+Sánchez Morales Josué Abelardo,10,4,71
+Santos Contreras Brian Alejandro,13,1,93
+Tapia Pérez Jesus Noe ,13,1,93
+Valdez Leal Roberto Carlos,13,1,93
+Vazquez Godoy Gerardo Neftali,13,1,93
+Villarreal Zazueta Victor,13,1,93
+Zavala Mata Martín de Jesús,13,1,93
+Zazueta Arce Alfonso,6,8,43
