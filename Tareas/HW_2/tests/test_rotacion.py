@@ -7,7 +7,9 @@ from pytest_check import check
 # Function names for rotations along each axis
 func = {'x':student_code.rot_x,
         'y':student_code.rot_y,
-        'z':student_code.rot_z}
+        'z':student_code.rot_z,
+        'rot': student_code.rotar
+       }
 
 def get_data(axis):
     point1 = np.array([1, 0, 0])  # i
@@ -41,7 +43,9 @@ def check_rotation(axis):
     for point, point_rotated in zip(points, rotated_points):
         point_check = rot_func(*point, theta)
         with check:
-            assert isinstance(point_check, np.ndarray), f"wrong type:{type(point_check)}"
+            assert isinstance(point_check, np.ndarray), (
+                f"wrong type:{type(point_check)}"
+            )
 
         point_check = np.array(point_check)
         assert check_dimension(point_check)
@@ -63,3 +67,14 @@ def test_rot_z():
     # Rotate i, j, and k around z axis
     check_rotation('z')
 
+def test_rotar():
+    axes = ['x', 'y', 'z']
+    for axis in axes:
+        points, theta, rotated_points, error = get_data(axis)
+        for point, point_rotated in zip(points, rotated_points):
+            with check:
+                point_check = func['rot'](*point, theta, axis)
+                point_check = np.array(point_check)
+                assert np.all(
+                    np.abs(point_check - point_rotated) < error
+                )
