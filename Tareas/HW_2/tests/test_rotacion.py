@@ -50,7 +50,6 @@ def check_rotation(axis):
         point_check = np.array(point_check)
         assert check_dimension(point_check)
 
-        point_check = np.array(point_check)
         assert np.all(
             np.abs(point_check - point_rotated) < error
         )
