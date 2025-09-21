@@ -39,19 +39,37 @@ def check_dimension(point):
 
 def check_rotation(axis):
     points, theta, rotated_points, error = get_data(axis)
+    # Consider theta in degrees too
+    theta2 = theta * 180 / np.pi
+    # Consider rotation in clockwise sense
+    theta3 = -theta
+    # Consider rotation in clockwise sense in degrees
+    theta4 = -theta * 180 / np.pi
     rot_func = func[axis]
     for point, point_rotated in zip(points, rotated_points):
         point_check = rot_func(*point, theta)
+        point_check2 = rot_func(*point, theta2)
+        point_check3 = rot_func(*point, theta3)
+        point_check4 = rot_func(*point, theta4)
         with check:
             assert isinstance(point_check, np.ndarray), (
                 f"wrong type:{type(point_check)}"
             )
 
         point_check = np.array(point_check)
+        point_check2 = np.array(point_check2)
+        point_check3 = np.array(point_check3)
+        point_check4 = np.array(point_check4)
         assert check_dimension(point_check)
 
         assert np.all(
             np.abs(point_check - point_rotated) < error
+        ) or np.all(
+            np.abs(point_check2 - point_rotated) < error
+        ) or np.all(
+            np.abs(point_check3 - point_rotated) < error
+        ) or np.all(
+            np.abs(point_check4 - point_rotated) < error
         )
 
 def test_rot_x():
@@ -70,10 +88,28 @@ def test_rotar():
     axes = ['x', 'y', 'z']
     for axis in axes:
         points, theta, rotated_points, error = get_data(axis)
+        # Consider theta in degrees too
+        theta2 = theta * 180 / np.pi
+        # Consider rotation in clockwise sense
+        theta3 = -theta
+        # Consider rotation in clockwise sense in degrees
+        theta4 = -theta * 180 / np.pi
         for point, point_rotated in zip(points, rotated_points):
             with check:
                 point_check = func['rot'](*point, theta, axis)
                 point_check = np.array(point_check)
+                point_check2 = func['rot'](*point, theta2, axis)
+                point_check2 = np.array(point_check2)
+                point_check3 = func['rot'](*point, theta3, axis)
+                point_check3 = np.array(point_check3)
+                point_check4 = func['rot'](*point, theta4, axis)
+                point_check4 = np.array(point_check4)
                 assert np.all(
                     np.abs(point_check - point_rotated) < error
+                ) or np.all(
+                    np.abs(point_check2 - point_rotated) < error
+                ) or np.all(
+                    np.abs(point_check3 - point_rotated) < error
+                ) or np.all(
+                    np.abs(point_check4 - point_rotated) < error
                 )
