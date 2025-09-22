@@ -1,70 +1,143 @@
-Tabla 1
-Nombre,25-ago,26-ago,27-ago,28-ago,29-ago,1-sep,2-sep,3-sep,4-sep,8-sep,9-sep,10-sep,11-sep,12-sep
-Anaya Mejia Luis Fernando,1,1,1,1,1,1,0,1,1,1,1,1,1,0
-Camacho Cañedo Gabriel alejandro,1,1,0,1,1,0,1,1,0,0,0,0,1,0
-Cansino Perez Jonathan miguel,1,1,1,1,0,1,0,1,1,1,1,1,1,0
-Castro Avila Victor Enrique,1,0,1,1,0,1,0,1,1,0,1,1,1,1
-Celis Lara Kevin Israel,1,0,1,1,0,1,0,1,0,1,0,1,1,0
-Chavez Aguirre Juan Fernando,1,0,1,0,0,1,0,1,1,1,1,1,1,1
-Contreras Castañeda Fernando,1,1,1,0,0,1,1,1,0,1,1,1,1,0
-Elizalde Ochoa Ricardo,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Espinoza Mendez Arturo de Jesus,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Galicia Morales Francisco Eduardo,1,1,1,1,1,1,1,1,1,1,0,1,1,1
-Garcia Felix Juan Carlos,1,0,0,0,0,1,0,1,1,1,1,1,0,0
-Garcia Perez Jose Rosario,1,1,1,0,0,1,0,1,1,1,0,1,1,0
-Guzmán Leyva Angel Antonio,1,0,1,1,0,1,0,1,1,1,0,1,1,0
-Guzman Rodriguez José Gael,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Lopez Alvarez Maria de los Angeles,1,1,1,1,1,0,1,1,1,1,1,1,1,1
-Lopez Montelongo Jesus Irrobel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-López Ramos José Raúl,1,1,1,1,1,1,1,1,1,1,1,1,1,0
-Madrigales Espinoza Lizeth,1,1,1,1,1,1,0,1,1,1,1,1,1,1
-Martinez Gonzalez Leoncio Daniel,1,1,1,0,1,1,0,1,1,1,1,1,1,1
-Medina Sandoval Jesús Eduardo ,1,1,1,1,1,1,0,1,1,1,1,1,1,1
-Montoya Vidales Lourdes,1,0,1,0,0,1,0,0,0,1,1,1,1,1
-Moras Sánchez Miguel Ángel,0,0,0,0,0,1,0,1,1,0,0,1,1,0
-Moreno Kazandra de los Angeles,1,1,1,1,1,1,1,1,1,1,1,1,1,0
-Paredes Felix Sergio De Jesus,1,1,1,1,0,1,1,1,1,1,1,1,0,1
-Rico Zatarain José Francisco,1,1,1,1,1,1,1,1,1,1,1,0,1,1
-Rodelo Sabalza Osvaldo,1,0,1,0,0,0,0,1,1,1,1,1,1,0
-Salazar Rochin Israel,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Torres Del Agua Tlaloc Enrique,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Urias Rodriguez Jesus Martin,1,1,1,1,0,1,0,1,1,1,1,1,1,0
-Velazquez Gaspar Xitlaly Guadalupe,1,0,1,1,1,1,0,1,1,1,1,1,1,1
-Zamudio Meza Jose Javier,0,1,1,1,0,1,0,1,0,1,1,1,1,0
-Zazueta Gonzalez Cesar Aory,1,1,1,1,0,0,0,1,0,1,1,1,0,0
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-Resumen,Clases Totales:,14,,,,,,,,,,,,
-Estudiante,Asistencias,Faltas,Promedio Asistencias,,,,,,,,,,,
-Anaya Mejia Luis Fernando,12,2,86,,,,,,,,,,,
-Camacho Cañedo Gabriel alejandro,7,7,50,,,,,,,,,,,
-Cansino Perez Jonathan miguel,11,3,79,,,,,,,,,,,
-Castro Avila Victor Enrique,10,4,71,,,,,,,,,,,
-Celis Lara Kevin Israel,8,6,57,,,,,,,,,,,
-Chavez Aguirre Juan Fernando,10,4,71,,,,,,,,,,,
-Contreras Castañeda Fernando,10,4,71,,,,,,,,,,,
-Elizalde Ochoa Ricardo,14,0,100,,,,,,,,,,,
-Espinoza Mendez Arturo de Jesus,14,0,100,,,,,,,,,,,
-Galicia Morales Francisco Eduardo,13,1,93,,,,,,,,,,,
-Garcia Felix Juan Carlos,7,7,50,,,,,,,,,,,
-Garcia Perez Jose Rosario,9,5,64,,,,,,,,,,,
-Guzmán Leyva Angel Antonio,9,5,64,,,,,,,,,,,
-Guzman Rodriguez José Gael,14,0,100,,,,,,,,,,,
-Lopez Alvarez Maria de los Angeles,13,1,93,,,,,,,,,,,
-Lopez Montelongo Jesus Irrobel,14,0,100,,,,,,,,,,,
-López Ramos José Raúl,13,1,93,,,,,,,,,,,
-Madrigales Espinoza Lizeth,13,1,93,,,,,,,,,,,
-Martinez Gonzalez Leoncio Daniel,12,2,86,,,,,,,,,,,
-Medina Sandoval Jesús Eduardo ,13,1,93,,,,,,,,,,,
-Montoya Vidales Lourdes,8,6,57,,,,,,,,,,,
-Moras Sánchez Miguel Ángel,5,9,36,,,,,,,,,,,
-Moreno Kazandra de los Angeles,13,1,93,,,,,,,,,,,
-Paredes Felix Sergio De Jesus,12,2,86,,,,,,,,,,,
-Rico Zatarain José Francisco,13,1,93,,,,,,,,,,,
-Rodelo Sabalza Osvaldo,8,6,57,,,,,,,,,,,
-Salazar Rochin Israel,14,0,100,,,,,,,,,,,
-Torres Del Agua Tlaloc Enrique,14,0,100,,,,,,,,,,,
-Urias Rodriguez Jesus Martin,11,3,79,,,,,,,,,,,
-Velazquez Gaspar Xitlaly Guadalupe,12,2,86,,,,,,,,,,,
-Zamudio Meza Jose Javier,9,5,64,,,,,,,,,,,
-Zazueta Gonzalez Cesar Aory,8,6,57,,,,,,,,,,,
+Asistencias: Asistencias
+Nombre,25-ago,26-ago,27-ago,28-ago,29-ago,1-sep,2-sep,3-sep,4-sep,8-sep,9-sep,10-sep,11-sep,12-sep,17-sep,18-sep
+Anaya Mejia Luis Fernando,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1
+Camacho Cañedo Gabriel alejandro,1,1,0,1,1,0,1,1,0,0,0,0,1,0,1,0
+Cansino Perez Jonathan miguel,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1
+Castro Avila Victor Enrique,1,0,1,1,0,1,0,1,1,0,1,1,1,1,1,1
+Celis Lara Kevin Israel,1,0,1,1,0,1,0,1,0,1,0,1,1,0,0,1
+Chavez Aguirre Juan Fernando,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1
+Contreras Castañeda Fernando,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1
+Elizalde Ochoa Ricardo,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Espinoza Mendez Arturo de Jesus,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Galicia Morales Francisco Eduardo,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+Garcia Felix Juan Carlos,1,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1
+Garcia Perez Jose Rosario,1,1,1,0,0,1,0,1,1,1,0,1,1,0,1,0
+Guzmán Leyva Angel Antonio,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1
+Guzman Rodriguez José Gael,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lopez Alvarez Maria de los Angeles,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Lopez Montelongo Jesus Irrobel,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+López Ramos José Raúl,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Madrigales Espinoza Lizeth,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+Martinez Gonzalez Leoncio Daniel,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1
+Medina Sandoval Jesús Eduardo ,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+Montoya Vidales Lourdes,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1
+Moras Sánchez Miguel Ángel,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,1
+Moreno Kazandra de los Angeles,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Paredes Felix Sergio De Jesus,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+Rico Zatarain José Francisco,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Rodelo Sabalza Osvaldo,1,0,1,0,0,0,0,1,1,1,1,1,1,0,1,1
+Salazar Rochin Israel,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Torres Del Agua Tlaloc Enrique,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Urias Rodriguez Jesus Martin,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1
+Velazquez Gaspar Xitlaly Guadalupe,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+Zamudio Meza Jose Javier,0,1,1,1,0,1,0,1,0,1,1,1,1,0,1,1
+Zazueta Gonzalez Cesar Aory,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,0
+Hernandez Villalejos Marco Antonio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+
+Asistencias: Resumen
+Clases Totales:,16,,
+Estudiante,Asistencias,Faltas,Promedio
+Anaya Mejia Luis Fernando,14,2,88
+Camacho Cañedo Gabriel alejandro,8,8,50
+Cansino Perez Jonathan miguel,13,3,81
+Castro Avila Victor Enrique,12,4,75
+Celis Lara Kevin Israel,9,7,56
+Chavez Aguirre Juan Fernando,12,4,75
+Contreras Castañeda Fernando,12,4,75
+Elizalde Ochoa Ricardo,16,0,100
+Espinoza Mendez Arturo de Jesus,16,0,100
+Galicia Morales Francisco Eduardo,15,1,94
+Garcia Felix Juan Carlos,9,7,56
+Garcia Perez Jose Rosario,10,6,63
+Guzmán Leyva Angel Antonio,11,5,69
+Guzman Rodriguez José Gael,16,0,100
+Lopez Alvarez Maria de los Angeles,15,1,94
+Lopez Montelongo Jesus Irrobel,16,0,100
+López Ramos José Raúl,15,1,94
+Madrigales Espinoza Lizeth,15,1,94
+Martinez Gonzalez Leoncio Daniel,14,2,88
+Medina Sandoval Jesús Eduardo ,15,1,94
+Montoya Vidales Lourdes,10,6,63
+Moras Sánchez Miguel Ángel,6,10,38
+Moreno Kazandra de los Angeles,15,1,94
+Paredes Felix Sergio De Jesus,14,2,88
+Rico Zatarain José Francisco,15,1,94
+Rodelo Sabalza Osvaldo,10,6,63
+Salazar Rochin Israel,16,0,100
+Torres Del Agua Tlaloc Enrique,16,0,100
+Urias Rodriguez Jesus Martin,13,3,81
+Velazquez Gaspar Xitlaly Guadalupe,14,2,88
+Zamudio Meza Jose Javier,11,5,69
+Zazueta Gonzalez Cesar Aory,9,7,56
+Hernandez Villalejos Marco Antonio,2,14,13
+
+Tareas: Tareas
+Nombre,28-ago,4-sep,Expo,
+Anaya Mejia Luis Fernando,10,8,,
+Camacho Cañedo Gabriel alejandro,0,0,8,
+Cansino Perez Jonathan miguel,10,6,,
+Castro Avila Victor Enrique,10,9,,
+Celis Lara Kevin Israel,0,10,,
+Chavez Aguirre Juan Fernando,10,0,,
+Contreras Castañeda Fernando,0,10,,
+Elizalde Ochoa Ricardo,8,7,8,
+Espinoza Mendez Arturo de Jesus,10,5,10,
+Galicia Morales Francisco Eduardo,8,0,9,
+Garcia Felix Juan Carlos,0,10,,
+Garcia Perez Jose Rosario,0,10,10,
+Guzmán Leyva Angel Antonio,10,10,,
+Guzman Rodriguez José Gael,10,9,10,
+Lopez Alvarez Maria de los Angeles,10,0,9,
+Lopez Montelongo Jesus Irrobel,10,8,10,
+López Ramos José Raúl,10,0,,
+Madrigales Espinoza Lizeth,10,10,,
+Martinez Gonzalez Leoncio Daniel,10,10,,
+Medina Sandoval Jesús Eduardo ,10,10,,
+Montoya Vidales Lourdes,0,0,,
+Moras Sánchez Miguel Ángel,0,0,,
+Moreno Kazandra de los Angeles,8,0,,
+Paredes Felix Sergio De Jesus,0,10,10,
+Rico Zatarain José Francisco,10,5,9,
+Rodelo Sabalza Osvaldo,0,0,,
+Salazar Rochin Israel,0,0,,
+Torres Del Agua Tlaloc Enrique,10,9,10,
+Urias Rodriguez Jesus Martin,10,9,,
+Velazquez Gaspar Xitlaly Guadalupe,8,10,,
+Zamudio Meza Jose Javier,0,0,,
+Zazueta Gonzalez Cesar Aory,8,0,,
+Hernandez Villalejos Marco Antonio,0,0,,
+
+Tareas: Comentarios Tareas
+Nombre,1,2,,
+Anaya Mejia Luis Fernando,,"Le queda un ocho gracias al esfuerzo que puso en generar la animación, sin embargo, debía leer las instrucciones en el pdf de la tarea; no siguió el esqueleto, no documentó los argumentos; en particular no documentó el argumento “eje”; si otra persona quiere usar su código debe entrar a ver su implementación para saber que valor darle a eje o bien esperar a que arroje el ValueErrror; un objetivo fundamental de la tarea es trabajar en la parte de la documentación.",,
+Camacho Cañedo Gabriel alejandro,Respositorio vacío,,Leyó todo el contenido (desde el celular). No volteó al público.,
+Cansino Perez Jonathan miguel,,No seguiste las instrucciones de la tarea (instrucciones en el pdf sobre la tarea); no utilizaste el esqueleto y no documentaste.,,
+Castro Avila Victor Enrique,,Agregaste un parámetro a cada función de rotación que totalmente innecesario; es una mala práctica de programación y este no se encontraba en el esqueleto que les di. También cambiaste el nombre del archivo con lo cual yo no podía correr directamente mis pruebas sin descargar tu archivo y renombrarlo,,
+Celis Lara Kevin Israel,,,,
+Chavez Aguirre Juan Fernando,,,,
+Contreras Castañeda Fernando,,Nota: debe borrar la parte “thta = np.pi / 2” en el docstring ya que theta puede tomar cualquier valor.,,
+Elizalde Ochoa Ricardo,,No seguiste las instrucciones de la tarea (instrucciones en el pdf sobre la tarea); no utilizaste el esqueleto y documentaste el script mas no las funciones. ,Demasiado texto y leyó,
+Espinoza Mendez Arturo de Jesus,,No documentaste variables de entrada. No usaste el esqueleto que les envie. Tu programa solo funciona para un vector particular.,,
+Galicia Morales Francisco Eduardo,,,Muy poco tiempo de exposición (2:00),
+Garcia Felix Juan Carlos,,,,
+Garcia Perez Jose Rosario,No aplicaste un fork a ningún repositorio. En tu repositorio existen dos proyectos: Uno sobre la rotación y el otro es el de nuestra clase.,,,
+Guzmán Leyva Angel Antonio,,,,
+Guzman Rodriguez José Gael,,"En la descripción “Returns” lo correcto sería decir que regresa el vector rotado alrededor del eje que estemos hablando, no se comenta los comandos que utilizamos. En la descripción de la tarea se veía que la función “rotar” debía regresar el vector rotado y no None (además se debería utilizar valores para “axis” con minúsculas de acuerdo al esqueleto que les di). ",,
+Lopez Alvarez Maria de los Angeles,,,Muy poco tiempo de exposición (1:30); al irte rápido no queda claro un concepto o falta discutir importantes detalles,
+Lopez Montelongo Jesus Irrobel,,No documentaste las variables de entrada de las funciones. Eliminaste la función rotar que me permitía automatizar el chequeo.,Recomendaciones: Letra más grande,
+López Ramos José Raúl,,,,
+Madrigales Espinoza Lizeth,,,,
+Martinez Gonzalez Leoncio Daniel,,,,
+Medina Sandoval Jesús Eduardo ,,,,
+Montoya Vidales Lourdes,,,,
+Moras Sánchez Miguel Ángel,,,,
+Moreno Kazandra de los Angeles,,,,
+Paredes Felix Sergio De Jesus,,,Recomendaciones: todavía puede mejorar la explicación de lo que es un middleware,
+Rico Zatarain José Francisco,,No respetaste en absoluto las instrucciones de la tarea. Todo lo decidiste hacer en una función y con la cantidad de variables que deseaste.,Falta voltear hacia el público. Explicación algo complicada.,
+Rodelo Sabalza Osvaldo,,,,
+Salazar Rochin Israel,"Usted solo me mandó una imagen, desconozco donde esté su repositorio y además se ve vacío. La fecha de entrega era el 28-ago no 29.",,,
+Torres Del Agua Tlaloc Enrique,,Documentaste los argumentos de las funciones en el “docstring” del módulo y no dentro de las funciones. El valor regresado debe documentarse en el docstring también. En particular el argumento “eje” no fue documentado; el usuario no puede saber que valor dar a este parámetro a menos que se meta a ver tu implementación.,Recomendación: voltear un poco más al público,
+Urias Rodriguez Jesus Martin,,Te faltó documentar argumentos en tres funciones iniciales; tienes 9 porque te consideré que documentaste en la función “rotar”.,,
+Velazquez Gaspar Xitlaly Guadalupe,,"Excelente que hayas agregado la sección “Raises:"" en el “doctring” ",,
+Zamudio Meza Jose Javier,,,,
+Zazueta Gonzalez Cesar Aory,,,,
