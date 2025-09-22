@@ -1,78 +1,156 @@
-Tabla 1
-Nombre,25-ago,26-ago,27-ago,28-ago,1-sep,2-sep,3-sep,4-sep,8-sep,9-sep,10-sep,11-sep,12-sep
-ALVAREZ ESPINOZA VICTOR MANUEL,1,1,1,0,0,0,0,0,0,0,0,0,0
-Alvizu Zazueta Jesús Eduardo ,1,0,1,1,1,1,1,1,1,1,0,1,1
-Amador Manjarréz Juan José ,1,1,1,1,0,0,1,1,1,1,1,0,1
-Ayala Hernandez Luis Angel,0,0,1,1,1,1,0,0,1,0,0,0,0
-Benitez Valenzuela Zahir,0,0,1,1,1,1,1,0,1,1,0,0,0
-Campaña Silvas Esteban Baltazar,1,1,1,1,1,1,1,1,1,1,1,1,1
-Chaparro Corrales Javier,1,0,1,0,1,0,1,1,1,0,1,1,1
-Corral Ramirez Melanie Guadalupe,1,1,1,1,1,1,1,1,1,1,0,1,1
-Cortes Sainz Cristian Adlai ,1,1,1,1,1,1,1,1,1,1,1,0,1
-Corvera Quevedo Jhonan Ismael,1,1,1,1,1,1,1,1,1,1,1,1,1
-Cruz Valdez Cesar Fidel,0,1,1,1,1,0,0,0,0,0,1,1,0
-De la Rocha Paez Jose Ignacio,1,1,0,1,1,1,1,0,1,1,1,1,0
-Espinoza Garcia Cristian Edgardo,1,1,1,1,0,1,1,1,1,1,1,1,1
-Galindo Meléndrez Raúl Caleb,1,0,1,1,1,1,1,1,1,0,1,0,0
-Galindo Melendrez Sergio Jesus,1,1,0,1,1,1,1,1,1,1,1,0,0
-Gallardo Garcia Gerardo Gael ,1,0,0,0,1,1,0,1,1,0,1,1,0
-Garcia Uriarte Michelle,1,1,1,1,1,1,1,1,1,1,0,1,1
-Gómez Beltrán Oscar Edrian ,1,1,1,1,0,0,1,0,0,1,0,1,0
-Herrera Garcia Daniel Romaldo,0,1,1,0,1,0,1,1,1,0,1,1,0
-Herrera Martínez Josúe Nicolás ,1,1,1,1,1,0,1,0,1,1,1,1,0
-Higuera Medina Jocelyn Guadalupe ,1,1,1,1,1,1,0,0,1,0,1,1,0
-Lizarraga Roman Jesús Gamaliel,1,1,1,1,1,1,1,1,1,1,1,1,1
-López López Heliodoro,1,1,1,1,0,1,1,1,1,1,1,1,1
-Martinez Pacheco Reynaldo Jair,1,1,1,1,1,1,1,1,1,1,1,1,1
-Meza Corrales Larizza Janeth,1,0,1,0,0,1,1,1,1,0,0,0,0
-Murillo Bracamontes Jennifer,1,1,1,1,1,1,1,0,1,1,1,1,0
-Najar Pantoja Roberto Carlos ,1,0,1,1,1,1,0,1,1,0,1,1,0
-Olague López Luis Fernando,1,1,0,1,1,1,1,1,1,1,1,1,1
-Pineda Camacho Luis Leobardo ,1,1,1,1,1,1,1,1,1,1,1,1,1
-Quiñonez Terán Jesus Smith ,1,1,1,1,1,1,1,0,1,1,1,1,0
-Ríos Ballesteros Benjamin,1,0,1,0,1,0,1,0,1,0,0,0,1
-Rodríguez Astorga José Gilberto ,1,0,1,1,0,1,1,1,1,1,1,1,0
-Ruiz Orduño Eduardo,1,1,1,1,1,1,1,1,1,1,1,1,1
-Serrano Montes Gilberto Alonso ,1,0,1,0,1,0,1,1,1,1,1,1,1
-Torres Moreno Christian Oswaldo,1,1,1,1,0,1,1,1,0,0,0,1,0
-Villa Gastelum Roberto Carlos,1,1,1,0,1,0,1,1,1,0,1,1,1
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-Resumen,Clases Totales:,13,,,,,,,,,,,
-Estudiante,Asistencias,Faltas,Promedio Asistencias,,,,,,,,,,
-ALVAREZ ESPINOZA VICTOR MANUEL,3,10,23,,,,,,,,,,
-Alvizu Zazueta Jesús Eduardo ,11,2,85,,,,,,,,,,
-Amador Manjarréz Juan José ,10,3,77,,,,,,,,,,
-Ayala Hernandez Luis Angel,5,8,38,,,,,,,,,,
-Benitez Valenzuela Zahir,7,6,54,,,,,,,,,,
-Campaña Silvas Esteban Baltazar,13,0,100,,,,,,,,,,
-Chaparro Corrales Javier,9,4,69,,,,,,,,,,
-Corral Ramirez Melanie Guadalupe,12,1,92,,,,,,,,,,
-Cortes Sainz Cristian Adlai ,12,1,92,,,,,,,,,,
-Corvera Quevedo Jhonan Ismael,13,0,100,,,,,,,,,,
-Cruz Valdez Cesar Fidel,6,7,46,,,,,,,,,,
-De la Rocha Paez Jose Ignacio,10,3,77,,,,,,,,,,
-Espinoza Garcia Cristian Edgardo,12,1,92,,,,,,,,,,
-Galindo Meléndrez Raúl Caleb,9,4,69,,,,,,,,,,
-Galindo Melendrez Sergio Jesus,10,3,77,,,,,,,,,,
-Gallardo Garcia Gerardo Gael ,7,6,54,,,,,,,,,,
-Garcia Uriarte Michelle,12,1,92,,,,,,,,,,
-Gómez Beltrán Oscar Edrian ,7,6,54,,,,,,,,,,
-Herrera Garcia Daniel Romaldo,8,5,62,,,,,,,,,,
-Herrera Martínez Josúe Nicolás ,10,3,77,,,,,,,,,,
-Higuera Medina Jocelyn Guadalupe ,9,4,69,,,,,,,,,,
-Lizarraga Roman Jesús Gamaliel,13,0,100,,,,,,,,,,
-López López Heliodoro,12,1,92,,,,,,,,,,
-Martinez Pacheco Reynaldo Jair,13,0,100,,,,,,,,,,
-Meza Corrales Larizza Janeth,6,7,46,,,,,,,,,,
-Murillo Bracamontes Jennifer,11,2,85,,,,,,,,,,
-Najar Pantoja Roberto Carlos ,9,4,69,,,,,,,,,,
-Olague López Luis Fernando,12,1,92,,,,,,,,,,
-Pineda Camacho Luis Leobardo ,13,0,100,,,,,,,,,,
-Quiñonez Terán Jesus Smith ,11,2,85,,,,,,,,,,
-Ríos Ballesteros Benjamin,6,7,46,,,,,,,,,,
-Rodríguez Astorga José Gilberto ,10,3,77,,,,,,,,,,
-Ruiz Orduño Eduardo,13,0,100,,,,,,,,,,
-Serrano Montes Gilberto Alonso ,10,3,77,,,,,,,,,,
-Torres Moreno Christian Oswaldo,8,5,62,,,,,,,,,,
-Villa Gastelum Roberto Carlos,10,3,77,,,,,,,,,,
+Asistencias: Asistencias
+Nombre,25-ago,26-ago,27-ago,28-ago,1-sep,2-sep,3-sep,4-sep,8-sep,9-sep,10-sep,11-sep,12-sep,17-sep,18-sep
+ALVAREZ ESPINOZA VICTOR MANUEL,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+Alvizu Zazueta Jesús Eduardo ,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0
+Amador Manjarréz Juan José ,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1
+Ayala Hernandez Luis Angel,0,0,1,1,1,1,0,0,1,0,0,0,0,1,1
+Benitez Valenzuela Zahir,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1
+Campaña Silvas Esteban Baltazar,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Chaparro Corrales Javier,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1
+Corral Ramirez Melanie Guadalupe,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Cortes Sainz Cristian Adlai ,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+Corvera Quevedo Jhonan Ismael,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cruz Valdez Cesar Fidel,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0
+De la Rocha Paez Jose Ignacio,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1
+Espinoza Garcia Cristian Edgardo,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Galindo Meléndrez Raúl Caleb,1,0,1,1,1,1,1,1,1,0,1,0,0,1,0
+Galindo Melendrez Sergio Jesus,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1
+Gallardo Garcia Gerardo Gael ,1,0,0,0,1,1,0,1,1,0,1,1,0,1,1
+Garcia Uriarte Michelle,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
+Gómez Beltrán Oscar Edrian ,1,1,1,1,0,0,1,0,0,1,0,1,0,1,1
+Herrera Garcia Daniel Romaldo,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1
+Herrera Martínez Josúe Nicolás ,1,1,1,1,1,0,1,0,1,1,1,1,0,1,0
+Higuera Medina Jocelyn Guadalupe ,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1
+Lizarraga Roman Jesús Gamaliel,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+López López Heliodoro,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+Martinez Pacheco Reynaldo Jair,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Meza Corrales Larizza Janeth,1,0,1,0,0,1,1,1,1,0,0,0,0,1,1
+Murillo Bracamontes Jennifer,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+Najar Pantoja Roberto Carlos ,1,0,1,1,1,1,0,1,1,0,1,1,0,1,1
+Olague López Luis Fernando,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+Pineda Camacho Luis Leobardo ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Quiñonez Terán Jesus Smith ,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+Ríos Ballesteros Benjamin,1,0,1,0,1,0,1,0,1,0,0,0,1,1,0
+Rodríguez Astorga José Gilberto ,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1
+Ruiz Orduño Eduardo,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Serrano Montes Gilberto Alonso ,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1
+Torres Moreno Christian Oswaldo,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1
+Villa Gastelum Roberto Carlos,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1
+
+Asistencias: Resumen
+Clases Totales,15,,
+Estudiante,Asistencias,Faltas,Promedio
+ALVAREZ ESPINOZA VICTOR MANUEL,5,10,33
+Alvizu Zazueta Jesús Eduardo ,12,3,80
+Amador Manjarréz Juan José ,12,3,80
+Ayala Hernandez Luis Angel,7,8,47
+Benitez Valenzuela Zahir,9,6,60
+Campaña Silvas Esteban Baltazar,15,0,100
+Chaparro Corrales Javier,11,4,73
+Corral Ramirez Melanie Guadalupe,14,1,93
+Cortes Sainz Cristian Adlai ,14,1,93
+Corvera Quevedo Jhonan Ismael,15,0,100
+Cruz Valdez Cesar Fidel,6,9,40
+De la Rocha Paez Jose Ignacio,12,3,80
+Espinoza Garcia Cristian Edgardo,14,1,93
+Galindo Meléndrez Raúl Caleb,10,5,67
+Galindo Melendrez Sergio Jesus,12,3,80
+Gallardo Garcia Gerardo Gael ,9,6,60
+Garcia Uriarte Michelle,14,1,93
+Gómez Beltrán Oscar Edrian ,9,6,60
+Herrera Garcia Daniel Romaldo,10,5,67
+Herrera Martínez Josúe Nicolás ,11,4,73
+Higuera Medina Jocelyn Guadalupe ,11,4,73
+Lizarraga Roman Jesús Gamaliel,15,0,100
+López López Heliodoro,14,1,93
+Martinez Pacheco Reynaldo Jair,15,0,100
+Meza Corrales Larizza Janeth,8,7,53
+Murillo Bracamontes Jennifer,13,2,87
+Najar Pantoja Roberto Carlos ,11,4,73
+Olague López Luis Fernando,14,1,93
+Pineda Camacho Luis Leobardo ,15,0,100
+Quiñonez Terán Jesus Smith ,13,2,87
+Ríos Ballesteros Benjamin,7,8,47
+Rodríguez Astorga José Gilberto ,12,3,80
+Ruiz Orduño Eduardo,15,0,100
+Serrano Montes Gilberto Alonso ,12,3,80
+Torres Moreno Christian Oswaldo,10,5,67
+Villa Gastelum Roberto Carlos,12,3,80
+
+Tareas: Tareas
+Nombre,28-ago,4-sep,Expo,
+ALVAREZ ESPINOZA VICTOR MANUEL,10,0,,
+Alvizu Zazueta Jesús Eduardo ,10,10,10,
+Amador Manjarréz Juan José ,0,0,,
+Ayala Hernandez Luis Angel,0,0,,
+Benitez Valenzuela Zahir,0,0,,
+Campaña Silvas Esteban Baltazar,10,9,,
+Chaparro Corrales Javier,0,0,,
+Corral Ramirez Melanie Guadalupe,10,9,10,
+Cortes Sainz Cristian Adlai ,8,0,,
+Corvera Quevedo Jhonan Ismael,10,9,,
+Cruz Valdez Cesar Fidel,0,0,,
+De la Rocha Paez Jose Ignacio,10,7,10,
+Espinoza Garcia Cristian Edgardo,0,7,8,
+Galindo Meléndrez Raúl Caleb,0,10,,
+Galindo Melendrez Sergio Jesus,10,0,,
+Gallardo Garcia Gerardo Gael ,0,10,9,
+Garcia Uriarte Michelle,10,6,10,
+Gómez Beltrán Oscar Edrian ,0,0,,
+Herrera Garcia Daniel Romaldo,0,0,8,
+Herrera Martínez Josúe Nicolás ,10,0,,
+Higuera Medina Jocelyn Guadalupe ,10,0,,
+Lizarraga Roman Jesús Gamaliel,10,10,,
+López López Heliodoro,0,0,9,
+Martinez Pacheco Reynaldo Jair,10,10,10,
+Meza Corrales Larizza Janeth,0,0,,
+Murillo Bracamontes Jennifer,10,10,,
+Najar Pantoja Roberto Carlos ,0,0,,
+Olague López Luis Fernando,0,0,,
+Pineda Camacho Luis Leobardo ,10,10,9,
+Quiñonez Terán Jesus Smith ,0,10,,
+Ríos Ballesteros Benjamin,0,0,,
+Rodríguez Astorga José Gilberto ,0,0,,
+Ruiz Orduño Eduardo,0,0,9,
+Serrano Montes Gilberto Alonso ,0,0,,
+Torres Moreno Christian Oswaldo,0,0,,
+Villa Gastelum Roberto Carlos,0,0,,
+
+Tareas: Comentarios Tareas
+Nombre,1,2,Expo,
+ALVAREZ ESPINOZA VICTOR MANUEL,,,,
+Alvizu Zazueta Jesús Eduardo ,,,,
+Amador Manjarréz Juan José ,,,,
+Ayala Hernandez Luis Angel,,,,
+Benitez Valenzuela Zahir,,,,
+Campaña Silvas Esteban Baltazar,,"Muy buen trabajo con tu código, el problema fue que no documentaste la función “rotar”.",,
+Chaparro Corrales Javier,,,,
+Corral Ramirez Melanie Guadalupe,,Falto documentar las variables de entrada en las funciones; para un usuario es esencial saber que tipo de variables puede emplear.,,
+Cortes Sainz Cristian Adlai ,,,,
+Corvera Quevedo Jhonan Ismael,,El archivo se debía subir a un repositorio creado por usted.  Se debía borrar la instrucción “pass” (esta era necesaria cuando la función estaba vacía),,
+Cruz Valdez Cesar Fidel,,,,
+De la Rocha Paez Jose Ignacio,,No utilizó el esqueleto que les di; no documentaste los argumentos de las funciones y la documentación de la función en sí es incorrecta (los puntos se rotan alrededor de un eje un ángulo theta en sentido antihorario); no creaste la función “rotar” de acuerdo al esqueleto que les dí.,,
+Espinoza Garcia Cristian Edgardo,“,No utilizó el esqueleto que les di; no quisiste documentar las funciones de rotación en “y” y “z”; el argumento “eje” debía tomar el eje en minúsculas de acuerdo al esqueleto que les dí.,Leyó todo,
+Galindo Meléndrez Raúl Caleb,,,,
+Galindo Melendrez Sergio Jesus,,,,
+Gallardo Garcia Gerardo Gael ,,Recomendación: No es recomendable utilizar nombres de archivos con acentos o caracteres que no sean ASCII.,Falta voltear al público pero fuera de eso buena presentación,
+Garcia Uriarte Michelle,,No documentó y no usó el esqueleto del código,Muy buena presentación,
+Gómez Beltrán Oscar Edrian ,,,,
+Herrera Garcia Daniel Romaldo,,,Leyó mucho; hizo comentarios erróneos de lo que es un framework; mucho texto,
+Herrera Martínez Josúe Nicolás ,,,,
+Higuera Medina Jocelyn Guadalupe ,,,,
+Lizarraga Roman Jesús Gamaliel,,,,
+López López Heliodoro,,,Leyó a partir de la segunda diapositiva,
+Martinez Pacheco Reynaldo Jair,,,,
+Meza Corrales Larizza Janeth,,,,
+Murillo Bracamontes Jennifer,,,,
+Najar Pantoja Roberto Carlos ,,,,
+Olague López Luis Fernando,,,,
+Pineda Camacho Luis Leobardo ,,,Leyó mucho,
+Quiñonez Terán Jesus Smith ,,,,
+Ríos Ballesteros Benjamin,,,,
+Rodríguez Astorga José Gilberto ,,,,
+Ruiz Orduño Eduardo,,,Leyó mucho,
+Serrano Montes Gilberto Alonso ,,,,
+Torres Moreno Christian Oswaldo,,,,
+Villa Gastelum Roberto Carlos,,,,
