@@ -64,7 +64,7 @@ Sin embargo,
 debido a que la red es asíncrona, 
 la observación de la llegada de un mensaje da muy poca indicación
 sobre cuando fue enviado,
-especailmente cuando el mensaje es reenviado a través de uno o más nodos intermedios.
+especialmente cuando el mensaje es reenviado a través de uno o más nodos intermedios.
 Como hemos visto, puede ser un mensaje retrasado que en realidad ocurrió antes de los mensajes que recibe inicialmente el endpoint.
 Como consecuencia,
 lograr un orden causal de los mensajes requiere del diseño de protocolos especiales y no puede lograrse mediante canales FIFO que brincan entre nodos. Una solución natural a este problema sería enviar estampas temporales en los mensajes, pero,
