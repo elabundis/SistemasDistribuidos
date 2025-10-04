@@ -54,9 +54,9 @@ Los siguientes pares de eventos tienen relaciones pasó-antes:
    \item Todos los eventos que ocurren en un único sistema tienen una relación pasó-antes.
 
    \item Los eventos que ocurren en diferentes equipos tiene una relación pasó-antes si se encuentran conectados mediante el envío y recepción de mensajes.
-   Si un proceso $P1$ envía un mensaje a $P2$, 
-   entonces todos los eventos en $P1$ que ocurrieron antes de la operación de envío, 
-   también ocurrieron antes que todos los eventos en $P2$ en el momento en que $P2$ recibe el mensaje.
+   Si un proceso $P_1$ envía un mensaje a $P_2$, 
+   entonces todos los eventos en $P_1$ que ocurrieron antes de la operación de envío, 
+   también ocurrieron antes que todos los eventos en $P_2$ en el momento en que $P_2$ recibe el mensaje.
 \end{enumerate}
 
 Las equipos añaden una estampa de tiempo (su valor de reloj Lamport actual) a cada mensaje que envían. 
@@ -75,10 +75,10 @@ entonces el valor del reloj lógico de $a$ es menor al de $b$.
 
 En esta figura se muestra un ejemplo de tres equipos utilizando relojes Lamport.
 Dos eventos tienen una relación pasó-antes si existe un camino desde el primer al segundo evento ya sea moviéndose a lo largo de un mismo proceso o siguiendo un mensaje a otro proceso.
-Por ejemplo, el evento con estampa 1 en el proceso $P3$ ocurrió antes que el evento con estampa 4 en $P1$.
+Por ejemplo, el evento con estampa 1 en el proceso $P_3$ ocurrió antes que el evento con estampa 4 en $P_1$.
 
-Observa que cuando el evento enviado por el proceso $P1$ con estampa temporal 6 es recibido en $P2$,
-este tiene una estampa menor a la estampa local en $P2$ (7).
+Observa que cuando el evento enviado por el proceso $P_1$ con estampa temporal 6 es recibido en $P_2$,
+este tiene una estampa menor a la estampa local en $P_2$ (7).
 El reloj Lamport se incrementa en consecuencia a 8 (el máximo entre las estampas local y del mensaje, más uno).
 
 Los eventos que no cuentan con una relación pasó-antes se definen como \emph{concurrentes}.
@@ -86,7 +86,7 @@ En el contexto de relojes lógicos,
 concurrente no significa que los eventos se ejecutan en el mismo momento.
 En este caso, concurrente indica que el sistema no se ve afectado por el orden de estas operaciones;
 el sistema habría llegado al mismo estado sin importar cuál evento ocurrió primero en tiempo real.
-En el ejemplo superior, el mensaje enviado desde $P3$ en el momento 6 y el mensaje enviado por $P1$ en el tiempo 6 son concurrentes aún cuando no ocurrieron en el mismo instante.
+En el ejemplo superior, el mensaje enviado desde $P_3$ en el momento 6 y el mensaje enviado por $P_1$ en el tiempo 6 son concurrentes aún cuando no ocurrieron en el mismo instante.
 
 Los relojes Lamport pueden utilizarse para crear un orden total en las operaciones.
 Un equipo que envía un request,
@@ -134,7 +134,7 @@ A continuación se muestra un ejemplo de máquinas empleando relojes vectoriales
 
 \begin{figure}[h]
    \centering
-   \includegraphics[scale=0.5]{vector_clocks.png}
+   \includegraphics[scale=0.3]{vector_clocks.png}
 \end{figure}
 
 Conocer la causalidad de cada par de eventos es trivial ahora;
@@ -145,8 +145,8 @@ Si la estampa de un evento,
 no es estrictamente más grande que la estampa correspondiente al otro,
 los eventos son concurrentes.
 Observando la figura,
-vemos que el evento con estampa (2, 1, 0) en $P1$
-ocurrió antes que el evento con estampa (2, 3, 1) en $P3$,
+vemos que el evento con estampa (2, 1, 0) en $P_1$
+ocurrió antes que el evento con estampa (2, 3, 1) en $P_3$,
 debido a que $2 \leqslant 2$,
 $1 < 3$
 y
