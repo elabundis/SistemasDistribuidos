@@ -127,7 +127,7 @@ Melchor Sarabia Jesus Antonio,10,6,9,,10
 Moreno Franco Jaime Alejandro,8,8,9,,10
 Núñez Avena Héctor de Jesús,10,10,,,10
 Olivas Bueno Jennifer,10,9,9,,8
-Perez Ontiveros Reynaldo Aldair,0,0,,,0
+Perez Ontiveros Reynaldo Aldair,0,0,10,,0
 Ramirez De la o Josue Alberto,10,0,8,,0
 Rodríguez Alvarado José Emmanuel,0,10,10,,0
 Rodriguez Martínez Jesús Eduardo,0,6,10,,0
@@ -186,3 +186,50 @@ Vazquez Godoy Gerardo Neftali,,"Docstring de función rotar incorrecto (“recib
 Villarreal Zazueta Victor,,No documentaste los parámetros de entrada para “rotar_y” y “rotar_z”. Cambiaste el nombre al archivo y a las funciones con respecto al esqueleto que les di; tuve que entrar y hacer modificaciones porque las pruebas no corrían con tu código.,Leyó casi todo y corto tiempo de exposición (2:06),,
 Zavala Mata Martín de Jesús,,"La función “rot_z” no corre; la documentación de la función “rotar” es incorrecta y de acuerdo al esqueleto que les envié la variable “axis” debería aceptar los valores en minúsculas “x”, “”y” y “z”.",Muy corto tiempo de exposición (1:50),,
 Zazueta Arce Alfonso,,Faltó descripción de las funciones en el docstring; documentación ejes “y” y “z” mal; la documentación de “axis” debería incluir que valores puede tomar este ya que el usuario no puede adivinarlo sin entrar a ver tu implementación,,,
+
+Participacion: Participación
+Nombre,Participaciones
+Aguilar Perez Axel Manuel ,
+Aguiñaga Gamboa Manuel,
+Aguirre Mariscal Jesús David,
+AISPURO AISPURO ELISA MARILI,
+Audelo Cabanillas Jose Noe,1
+Barraza Acosta José Sebastián,
+Barroso Salas Ximena Guadalupe,
+Beltrán Zepeda Yadira Monserrat,
+Bernal Caro Jesús Roberto,
+Cano Corvera Jesus Enrique,
+Cazarez Jimenez Juan Gabriel,
+Cervantes Hernández José Felipe,
+Chavez Ambriz Christofer Jesus,
+Cinco Romero Rodolfo,
+Colado Corrales Jorge Armando,
+Diaz Zamora Dante Emmanuel,
+Duarte Llanes Gabriel Eduardo,
+Fierro Moroyoqui Juan Carlos,1
+Garcia Lopez Edgar Daniel,
+Garcia Soto Antonio Sebastian,
+Gonzalez Valenzuela Brenda Nayeli,1
+GUERRERO DIAZ CARLOS ADOLFO,
+HIGUERA ÁVILA CESAR,
+Juárez Sánchez David Eduardo,
+Landeros Aispuro Javier Eduardo ,
+Loaiza Ramirez Jose Fernando,
+Lopez Urías Yahir Yojhary,
+Medina Herrera Daniel Valentin ,
+Melchor Sarabia Jesus Antonio,
+Moreno Franco Jaime Alejandro,
+Núñez Avena Héctor de Jesús,
+Olivas Bueno Jennifer,
+Perez Ontiveros Reynaldo Aldair,
+Ramirez De la o Josue Alberto,
+Rodríguez Alvarado José Emmanuel,
+Rodriguez Martínez Jesús Eduardo,
+Sánchez Morales Josué Abelardo,
+Santos Contreras Brian Alejandro,
+Tapia Pérez Jesus Noe ,
+Valdez Leal Roberto Carlos,
+Vazquez Godoy Gerardo Neftali,
+Villarreal Zazueta Victor,
+Zavala Mata Martín de Jesús,
+Zazueta Arce Alfonso,
