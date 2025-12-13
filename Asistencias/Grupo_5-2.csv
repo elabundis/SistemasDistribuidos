@@ -4,7 +4,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,0,0
 Alvizu Zazueta Jesús Eduardo ,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,0,0
 Amador Manjarréz Juan José ,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0
 Ayala Hernandez Luis Angel,0,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Benitez Valenzuela Zahir,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,1,1,0
+Benitez Valenzuela Zaid,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,1,1,0
 Campaña Silvas Esteban Baltazar,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
 Chaparro Corrales Javier,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corral Ramirez Melanie Guadalupe,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0
@@ -45,7 +45,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,23,32,42
 Alvizu Zazueta Jesús Eduardo ,43,12,78
 Amador Manjarréz Juan José ,36,19,65
 Ayala Hernandez Luis Angel,12,43,22
-Benitez Valenzuela Zahir,35,20,64
+Benitez Valenzuela Zaid,35,20,64
 Campaña Silvas Esteban Baltazar,54,1,98
 Chaparro Corrales Javier,24,31,44
 Corral Ramirez Melanie Guadalupe,49,6,89
@@ -85,7 +85,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,10,0,9,10,0,0
 Alvizu Zazueta Jesús Eduardo ,10,10,10,10,10,0
 Amador Manjarréz Juan José ,0,0,10,10,0,0
 Ayala Hernandez Luis Angel,0,0,8,8,0,0
-Benitez Valenzuela Zahir,0,0,9,0,0,0
+Benitez Valenzuela Zaid,0,0,9,0,0,0
 Campaña Silvas Esteban Baltazar,10,9,10,10,10,10
 Chaparro Corrales Javier,0,0,8,10,0,0
 Corral Ramirez Melanie Guadalupe,10,9,10,10,0,10
@@ -125,7 +125,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,,,Leyó mucho en algunas diapositivas; la explica
 Alvizu Zazueta Jesús Eduardo ,,,,,
 Amador Manjarréz Juan José ,,,,,
 Ayala Hernandez Luis Angel,,,,Reporte de dos hojas,
-Benitez Valenzuela Zahir,,,,,La tarea era para el domingo 26-oct. Usted la envió el día 30-oct.
+Benitez Valenzuela Zaid,,,,,La tarea era para el domingo 26-oct. Usted la envió el día 30-oct.
 Campaña Silvas Esteban Baltazar,,"Muy buen trabajo con tu código, el problema fue que no documentaste la función “rotar”.",,Excelente reporte! A parte del diez les daré dos participaciones por su esfuerzo extra.,
 Chaparro Corrales Javier,,,Estaba leyendo todo; no volteó al público,,
 Corral Ramirez Melanie Guadalupe,,Falto documentar las variables de entrada en las funciones; para un usuario es esencial saber que tipo de variables puede emplear.,,,
@@ -164,7 +164,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,2
 Alvizu Zazueta Jesús Eduardo ,0
 Amador Manjarréz Juan José ,0
 Ayala Hernandez Luis Angel,0
-Benitez Valenzuela Zahir,0
+Benitez Valenzuela Zaid,0
 Campaña Silvas Esteban Baltazar,3
 Chaparro Corrales Javier,0
 Corral Ramirez Melanie Guadalupe,0
@@ -204,7 +204,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,10
 Alvizu Zazueta Jesús Eduardo ,8
 Amador Manjarréz Juan José ,0
 Ayala Hernandez Luis Angel,0
-Benitez Valenzuela Zahir,9
+Benitez Valenzuela Zaid,9
 Campaña Silvas Esteban Baltazar,10
 Chaparro Corrales Javier,0
 Corral Ramirez Melanie Guadalupe,8
@@ -244,7 +244,7 @@ ALVAREZ ESPINOZA VICTOR MANUEL,5,3.1,
 Alvizu Zazueta Jesús Eduardo ,9,5.6,Pendiente
 Amador Manjarréz Juan José ,14,8.8,
 Ayala Hernandez Luis Angel,0,0,
-Benitez Valenzuela Zahir,6,3.8,
+Benitez Valenzuela Zaid,6,3.8,
 Campaña Silvas Esteban Baltazar,12,7.5,
 Chaparro Corrales Javier,12,7.5,
 Corral Ramirez Melanie Guadalupe,3,1.9,
