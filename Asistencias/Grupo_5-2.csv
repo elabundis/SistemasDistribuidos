@@ -36,7 +36,7 @@ Ruiz Orduño Eduardo,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1
 Serrano Montes Gilberto Alonso ,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Torres Moreno Christian Oswaldo,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Villa Gastelum Roberto Carlos,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Angulo Santos Rolando Guillermo,,,,,,,,,,,,,,,,,,,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,,0,0,0,0,0,1
+Angulo Santos Rolando Guillermo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1
 
 Asistencias: Resumen
 Clases Totales,55,,
@@ -77,6 +77,7 @@ Ruiz Orduño Eduardo,48,7,87
 Serrano Montes Gilberto Alonso ,23,32,42
 Torres Moreno Christian Oswaldo,22,33,40
 Villa Gastelum Roberto Carlos,23,32,42
+Angulo Santos Rolando Guillermo,11,44,20
 
 Tareas: Tareas
 Nombre,28-ago,4-sep,Expo,Reporte en latex,27-oct (git),TF-IDF y similitud
