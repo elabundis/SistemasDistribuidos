@@ -74,17 +74,17 @@ Hernandez Villalejos Marco Antonio,21,35,38
 Tareas: Tareas
 Nombre,28-ago,4-sep,Expo,Reporte en latex,27-oct (git),TF-IDF y similitud
 Anaya Mejia Luis Fernando,10,8,8,9,10,10
-Camacho Cañedo Gabriel alejandro,0,0,8,Pendiente,10,10
+Camacho Cañedo Gabriel alejandro,0,0,8,8,10,10
 Cansino Perez Jonathan miguel,10,6,9,10,10,0
 Castro Avila Victor Enrique,10,9,10,10,10,10
 Celis Lara Kevin Israel,0,10,0,10,0,0
 Chavez Aguirre Juan Fernando,10,0,9,10,10,10
 Contreras Castañeda Fernando,0,10,9,10,10,10
 Elizalde Ochoa Ricardo,10,7,8,10,10,10
-Espinoza Mendez Arturo de Jesus,10,5,10,Pendiente,10,10
-Galicia Morales Francisco Eduardo,10,0,9,Pendiente,10,10
+Espinoza Mendez Arturo de Jesus,10,5,10,8,10,10
+Galicia Morales Francisco Eduardo,10,0,9,8,10,10
 Garcia Felix Juan Carlos,0,10,8,9,10,7.5
-Garcia Perez Jose Rosario,0,10,10,Pendiente,10,10
+Garcia Perez Jose Rosario,0,10,10,8,10,10
 Guzmán Leyva Angel Antonio,10,10,10,10,10,10
 Guzman Rodriguez José Gael,10,9,10,10,10,10
 Lopez Alvarez Maria de los Angeles,10,9,9,10,10,10
@@ -97,7 +97,7 @@ Montoya Vidales Lourdes,0,0,10,10,10,0
 Moras Sánchez Miguel Ángel,0,0,8,9,0,0
 Moreno Kazandra de los Angeles,10,10,10,10,10,8
 Paredes Felix Sergio De Jesus,0,10,10,10,10,10
-Rico Zatarain José Francisco,10,5,9,Pendiente,0,10
+Rico Zatarain José Francisco,10,5,9,8,0,10
 Rodelo Sabalza Osvaldo,0,0,10,10,0,0
 Salazar Rochin Israel,0,0,9,9,0,5
 Torres Del Agua Tlaloc Enrique,10,9,10,10,10,8
@@ -117,7 +117,7 @@ Celis Lara Kevin Israel,,,,
 Chavez Aguirre Juan Fernando,,,,
 Contreras Castañeda Fernando,,Nota: debe borrar la parte “thta = np.pi / 2” en el docstring ya que theta puede tomar cualquier valor.,,
 Elizalde Ochoa Ricardo,,No seguiste las instrucciones de la tarea (instrucciones en el pdf sobre la tarea); no utilizaste el esqueleto y documentaste el script mas no las funciones. ,Demasiado texto y leyó,"Les queda 10 porque trabajaron bien la colocación de referencias. Sin embargo, les faltó hoja de presentación."
-Espinoza Mendez Arturo de Jesus,,No documentaste variables de entrada. No usaste el esqueleto que les envie. Tu programa solo funciona para un vector particular.,,
+Espinoza Mendez Arturo de Jesus,,No documentaste variables de entrada. No usaste el esqueleto que les envie. Tu programa solo funciona para un vector particular.,,"Les faltó hoja de presentación, nombre de los participantes, referencias y pusieron una sección vacía con título Hola."
 Galicia Morales Francisco Eduardo,,,Muy poco tiempo de exposición (2:00),"Le estoy considerando la tarea debido a q me mostró una imagen del término de los laboratorios pero debo mencionar que su repositorio no tiene historial, solo subió los archivos en un commit. De hecho tan solo con la imagen que me mandó no podría asegurar que realmente terminó los laboratorios. "
 Garcia Felix Juan Carlos,,,,
 Garcia Perez Jose Rosario,No aplicaste un fork a ningún repositorio. En tu repositorio existen dos proyectos: Uno sobre la rotación y el otro es el de nuestra clase.,,,
