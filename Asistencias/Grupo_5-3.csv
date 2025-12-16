@@ -94,51 +94,51 @@ Zavala Mata Martín de Jesús,44,4,92
 Zazueta Arce Alfonso,25,23,52
 
 Tareas: Tareas
-Nombre,28-ago,4-sep,Expo,Reporte en latex,27-oct (git),TF-IDF y similitud
-Aguilar Perez Axel Manuel ,10,10,8,0,0,0
-Aguiñaga Gamboa Manuel,10,7,9,10,10,10
-Aguirre Mariscal Jesús David,10,0,0,10,10,0
-AISPURO AISPURO ELISA MARILI,10,10,10,10,10,10
-Audelo Cabanillas Jose Noe,10,10,10,9,10,10
-Barraza Acosta José Sebastián,10,10,9,10,10,10
-Barroso Salas Ximena Guadalupe,10,9,9,9,10,10
-Beltrán Zepeda Yadira Monserrat,10,10,10,10,10,10
-Bernal Caro Jesús Roberto,8,10,10,8,10,10
-Cano Corvera Jesus Enrique,10,10,9,10,0,0
-Cazarez Jimenez Juan Gabriel,8,0,10,10,0,10
-Cervantes Hernández José Felipe,10,10,10,8,0,10
-Chavez Ambriz Christofer Jesus,10,9,8,10,10,0
-Cinco Romero Rodolfo,0,0,0,0,10,0
-Colado Corrales Jorge Armando,0,0,9,9,0,0
-Diaz Zamora Dante Emmanuel,10,10,9,10,0,0
-Duarte Llanes Gabriel Eduardo,10,10,10,10,0,10
-Fierro Moroyoqui Juan Carlos,10,7,9,10,10,10
-Garcia Lopez Edgar Daniel,10,8,9,10,10,0
-Garcia Soto Antonio Sebastian,0,0,8,10,0,10
-Gonzalez Valenzuela Brenda Nayeli,8,8,10,9,10,8
-GUERRERO DIAZ CARLOS ADOLFO,10,10,10,10,10,0
-HIGUERA ÁVILA CESAR,10,10,10,0,0,0
-Juárez Sánchez David Eduardo,10,6,10,10,10,10
-Landeros Aispuro Javier Eduardo ,0,0,10,10,0,0
-Loaiza Ramirez Jose Fernando,0,0,0,0,0,0
-Lopez Urías Yahir Yojhary,10,10,10,10,10,10
-Medina Herrera Daniel Valentin ,10,6,8,0,0,0
-Melchor Sarabia Jesus Antonio,10,6,9,8,10,10
-Moreno Franco Jaime Alejandro,8,8,9,9,10,8
-Núñez Avena Héctor de Jesús,10,10,8,10,10,0
-Olivas Bueno Jennifer,10,9,9,10,8,10
-Perez Ontiveros Reynaldo Aldair,0,0,10,8,0,0
-Ramirez De la o Josue Alberto,10,0,8,0,0,0
-Rodríguez Alvarado José Emmanuel,0,10,10,10,0,0
-Rodriguez Martínez Jesús Eduardo,0,6,10,10,0,0
-Sánchez Morales Josué Abelardo,8,5,9,8,0,10
-Santos Contreras Brian Alejandro,10,10,8,0,0,0
-Tapia Pérez Jesus Noe ,10,8,8,8,10,10
-Valdez Leal Roberto Carlos,8,10,10,10,10,10
-Vazquez Godoy Gerardo Neftali,10,7,9,10,10,10
-Villarreal Zazueta Victor,10,9,8,10,0,0
-Zavala Mata Martín de Jesús,8,8,9,9,10,10
-Zazueta Arce Alfonso,0,8,0,0,0,0
+Nombre,28-ago,4-sep,Expo,Reporte en latex,27-oct (git),TF-IDF y similitud,Promedio
+Aguilar Perez Axel Manuel ,10,10,8,0,0,0,4.7
+Aguiñaga Gamboa Manuel,10,7,9,10,10,10,9.3
+Aguirre Mariscal Jesús David,10,0,0,10,10,0,5
+AISPURO AISPURO ELISA MARILI,10,10,10,10,10,10,10
+Audelo Cabanillas Jose Noe,10,10,10,9,10,10,9.8
+Barraza Acosta José Sebastián,10,10,9,10,10,10,9.8
+Barroso Salas Ximena Guadalupe,10,9,9,9,10,10,9.5
+Beltrán Zepeda Yadira Monserrat,10,10,10,10,10,10,10
+Bernal Caro Jesús Roberto,8,10,10,8,10,10,9.3
+Cano Corvera Jesus Enrique,10,10,9,10,0,0,6.5
+Cazarez Jimenez Juan Gabriel,8,0,10,10,0,10,6.3
+Cervantes Hernández José Felipe,10,10,10,8,0,10,8
+Chavez Ambriz Christofer Jesus,10,9,8,10,10,0,7.8
+Cinco Romero Rodolfo,0,0,0,0,10,0,1.7
+Colado Corrales Jorge Armando,0,0,9,9,0,0,3
+Diaz Zamora Dante Emmanuel,10,10,9,10,0,0,6.5
+Duarte Llanes Gabriel Eduardo,10,10,10,10,0,10,8.3
+Fierro Moroyoqui Juan Carlos,10,7,9,10,10,10,9.3
+Garcia Lopez Edgar Daniel,10,8,9,10,10,0,7.8
+Garcia Soto Antonio Sebastian,0,0,8,10,0,10,4.7
+Gonzalez Valenzuela Brenda Nayeli,8,8,10,9,10,8,8.8
+GUERRERO DIAZ CARLOS ADOLFO,10,10,10,10,10,0,8.3
+HIGUERA ÁVILA CESAR,10,10,10,0,0,0,5
+Juárez Sánchez David Eduardo,10,6,10,10,10,10,9.3
+Landeros Aispuro Javier Eduardo ,0,0,10,10,0,0,3.3
+Loaiza Ramirez Jose Fernando,0,0,0,0,0,0,0
+Lopez Urías Yahir Yojhary,10,10,10,10,10,10,10
+Medina Herrera Daniel Valentin ,10,6,8,0,0,0,4
+Melchor Sarabia Jesus Antonio,10,6,9,8,10,10,8.8
+Moreno Franco Jaime Alejandro,8,8,9,9,10,8,8.7
+Núñez Avena Héctor de Jesús,10,10,8,10,10,0,8
+Olivas Bueno Jennifer,10,9,9,10,8,10,9.3
+Perez Ontiveros Reynaldo Aldair,0,0,10,8,0,0,3
+Ramirez De la o Josue Alberto,10,0,8,0,0,0,3
+Rodríguez Alvarado José Emmanuel,0,10,10,10,0,0,5
+Rodriguez Martínez Jesús Eduardo,0,6,10,10,0,0,4.3
+Sánchez Morales Josué Abelardo,8,5,9,8,0,10,6.7
+Santos Contreras Brian Alejandro,10,10,8,0,0,0,4.7
+Tapia Pérez Jesus Noe ,10,8,8,8,10,10,9
+Valdez Leal Roberto Carlos,8,10,10,10,10,10,9.7
+Vazquez Godoy Gerardo Neftali,10,7,9,10,10,10,9.3
+Villarreal Zazueta Victor,10,9,8,10,0,0,6.2
+Zavala Mata Martín de Jesús,8,8,9,9,10,10,9
+Zazueta Arce Alfonso,0,8,0,0,0,0,1.3
 
 Tareas: Comentarios Tareas
 Nombre,1,2,Expo,Reporte,Git immersion,TF-IDF y similitud
@@ -282,48 +282,95 @@ Zavala Mata Martín de Jesús,0
 Zazueta Arce Alfonso,8
 
 Examen: Examen
-Nombre,Aciertos Ex. 1 (total 16),Promedio Ex. 1,Promedio Ex. 2
-Aguilar Perez Axel Manuel ,9,5.6,0
-Aguiñaga Gamboa Manuel,16,10,10
-Aguirre Mariscal Jesús David,14,8.8,0
-AISPURO AISPURO ELISA MARILI,11,6.9,10
-Audelo Cabanillas Jose Noe,14,8.8,10
-Barraza Acosta José Sebastián,7,4.4,9
-Barroso Salas Ximena Guadalupe,9,5.6,10
-Beltrán Zepeda Yadira Monserrat,16,10,10
-Bernal Caro Jesús Roberto,12,7.5,9
-Cano Corvera Jesus Enrique,14,8.8,9
-Cazarez Jimenez Juan Gabriel,10,6.3,0
-Cervantes Hernández José Felipe,12,7.5,10
-Chavez Ambriz Christofer Jesus,14,8.8,9
-Cinco Romero Rodolfo,0,0,0
-Colado Corrales Jorge Armando,13,8.1,8
-Diaz Zamora Dante Emmanuel,6,3.8,9
-Duarte Llanes Gabriel Eduardo,7,4.4,10
-Fierro Moroyoqui Juan Carlos,8,5,10
-Garcia Lopez Edgar Daniel,8,5,10
-Garcia Soto Antonio Sebastian,8,5,10
-Gonzalez Valenzuela Brenda Nayeli,12,7.5,10
-GUERRERO DIAZ CARLOS ADOLFO,5,3.1,10
-HIGUERA ÁVILA CESAR,10,6.3,10
-Juárez Sánchez David Eduardo,13,8.1,9
-Landeros Aispuro Javier Eduardo ,10,6.3,Pendiente
-Loaiza Ramirez Jose Fernando,10,6.3,9
-Lopez Urías Yahir Yojhary,11,6.9,10
-Medina Herrera Daniel Valentin ,12,7.5,0
-Melchor Sarabia Jesus Antonio,11,6.9,10
-Moreno Franco Jaime Alejandro,13,8.1,8
-Núñez Avena Héctor de Jesús,12,7.5,10
-Olivas Bueno Jennifer,10,6.3,10
-Perez Ontiveros Reynaldo Aldair,9,5.6,9
-Ramirez De la o Josue Alberto,14,8.8,9
-Rodríguez Alvarado José Emmanuel,10,6.3,8
-Rodriguez Martínez Jesús Eduardo,14,8.8,9
-Sánchez Morales Josué Abelardo,15,9.4,10
-Santos Contreras Brian Alejandro,5,3.1,8
-Tapia Pérez Jesus Noe ,13,8.1,9
-Valdez Leal Roberto Carlos,9,5.6,9
-Vazquez Godoy Gerardo Neftali,14,8.8,10
-Villarreal Zazueta Victor,9,5.6,10
-Zavala Mata Martín de Jesús,13,8.1,9
-Zazueta Arce Alfonso,12,7.5,8
+Nombre,Aciertos Ex. 1 (total 16),Promedio Ex. 1,Promedio Ex. 2,Promedio Examenes (Cero en el caso de menos de 70% asistencias)
+Aguilar Perez Axel Manuel ,9,5.6,0,0
+Aguiñaga Gamboa Manuel,16,10,10,10
+Aguirre Mariscal Jesús David,14,8.8,0,4.4
+AISPURO AISPURO ELISA MARILI,11,6.9,10,8.45
+Audelo Cabanillas Jose Noe,14,8.8,10,9.4
+Barraza Acosta José Sebastián,7,4.4,9,6.7
+Barroso Salas Ximena Guadalupe,9,5.6,10,7.8
+Beltrán Zepeda Yadira Monserrat,16,10,10,10
+Bernal Caro Jesús Roberto,12,7.5,9,8.25
+Cano Corvera Jesus Enrique,14,8.8,9,0
+Cazarez Jimenez Juan Gabriel,10,6.3,0,3.15
+Cervantes Hernández José Felipe,12,7.5,10,8.75
+Chavez Ambriz Christofer Jesus,14,8.8,9,8.9
+Cinco Romero Rodolfo,0,0,0,0
+Colado Corrales Jorge Armando,13,8.1,8,8.05
+Diaz Zamora Dante Emmanuel,6,3.8,9,6.4
+Duarte Llanes Gabriel Eduardo,7,4.4,10,7.2
+Fierro Moroyoqui Juan Carlos,8,5,10,7.5
+Garcia Lopez Edgar Daniel,8,5,10,7.5
+Garcia Soto Antonio Sebastian,8,5,10,7.5
+Gonzalez Valenzuela Brenda Nayeli,12,7.5,10,8.75
+GUERRERO DIAZ CARLOS ADOLFO,5,3.1,10,6.55
+HIGUERA ÁVILA CESAR,10,6.3,10,8.15
+Juárez Sánchez David Eduardo,13,8.1,9,8.55
+Landeros Aispuro Javier Eduardo ,10,6.3,Pendiente,
+Loaiza Ramirez Jose Fernando,10,6.3,9,0
+Lopez Urías Yahir Yojhary,11,6.9,10,8.45
+Medina Herrera Daniel Valentin ,12,7.5,0,0
+Melchor Sarabia Jesus Antonio,11,6.9,10,8.45
+Moreno Franco Jaime Alejandro,13,8.1,8,8.05
+Núñez Avena Héctor de Jesús,12,7.5,10,8.75
+Olivas Bueno Jennifer,10,6.3,10,8.15
+Perez Ontiveros Reynaldo Aldair,9,5.6,9,7.3
+Ramirez De la o Josue Alberto,14,8.8,9,8.9
+Rodríguez Alvarado José Emmanuel,10,6.3,8,7.15
+Rodriguez Martínez Jesús Eduardo,14,8.8,9,0
+Sánchez Morales Josué Abelardo,15,9.4,10,0
+Santos Contreras Brian Alejandro,5,3.1,8,5.55
+Tapia Pérez Jesus Noe ,13,8.1,9,8.55
+Valdez Leal Roberto Carlos,9,5.6,9,7.3
+Vazquez Godoy Gerardo Neftali,14,8.8,10,9.4
+Villarreal Zazueta Victor,9,5.6,10,7.8
+Zavala Mata Martín de Jesús,13,8.1,9,8.55
+Zazueta Arce Alfonso,12,7.5,8,0
+
+Calif Final: Calificación Final
+Nombre,Calificación,Final (Participación)
+Aguilar Perez Axel Manuel ,2.1,2
+Aguiñaga Gamboa Manuel,9.7,10
+Aguirre Mariscal Jesús David,4.3,4
+AISPURO AISPURO ELISA MARILI,9.1,9
+Audelo Cabanillas Jose Noe,9.6,10
+Barraza Acosta José Sebastián,8.5,9
+Barroso Salas Ximena Guadalupe,8.8,9
+Beltrán Zepeda Yadira Monserrat,9.8,10
+Bernal Caro Jesús Roberto,9,9
+Cano Corvera Jesus Enrique,2.6,3
+Cazarez Jimenez Juan Gabriel,3.9,4
+Cervantes Hernández José Felipe,8.8,9
+Chavez Ambriz Christofer Jesus,8.8,9
+Cinco Romero Rodolfo,0.7,1
+Colado Corrales Jorge Armando,5,5
+Diaz Zamora Dante Emmanuel,7.4,7
+Duarte Llanes Gabriel Eduardo,7.9,8
+Fierro Moroyoqui Juan Carlos,8.6,9
+Garcia Lopez Edgar Daniel,8,8
+Garcia Soto Antonio Sebastian,7.3,7
+Gonzalez Valenzuela Brenda Nayeli,9,9
+GUERRERO DIAZ CARLOS ADOLFO,8,8
+HIGUERA ÁVILA CESAR,5.7,6
+Juárez Sánchez David Eduardo,9.1,9
+Landeros Aispuro Javier Eduardo ,,
+Loaiza Ramirez Jose Fernando,0.5,1
+Lopez Urías Yahir Yojhary,9,9
+Medina Herrera Daniel Valentin ,1.6,2
+Melchor Sarabia Jesus Antonio,8.9,9
+Moreno Franco Jaime Alejandro,8.6,9
+Núñez Avena Héctor de Jesús,6.7,7
+Olivas Bueno Jennifer,8.8,9
+Perez Ontiveros Reynaldo Aldair,4.6,5
+Ramirez De la o Josue Alberto,5.4,5
+Rodríguez Alvarado José Emmanuel,7.3,7
+Rodriguez Martínez Jesús Eduardo,3.8,4
+Sánchez Morales Josué Abelardo,4.4,4
+Santos Contreras Brian Alejandro,4.6,5
+Tapia Pérez Jesus Noe ,8.8,9
+Valdez Leal Roberto Carlos,8.6,9
+Vazquez Godoy Gerardo Neftali,9.5,10
+Villarreal Zazueta Victor,7.8,8
+Zavala Mata Martín de Jesús,7,7
+Zazueta Arce Alfonso,2.5,3
