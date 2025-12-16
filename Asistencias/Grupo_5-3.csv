@@ -9,7 +9,7 @@ Barraza Acosta José Sebastián,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,
 Barroso Salas Ximena Guadalupe,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1
 Beltrán Zepeda Yadira Monserrat,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1
 Bernal Caro Jesús Roberto,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
-Cano Corvera Jesus Enrique,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,1,0,1,0,1
+Cano Corvera Jesus Enrique,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,1
 Cazarez Jimenez Juan Gabriel,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0,1
 Cervantes Hernández José Felipe,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1
 Chavez Ambriz Christofer Jesus,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
@@ -57,7 +57,7 @@ Barraza Acosta José Sebastián,41,7,85
 Barroso Salas Ximena Guadalupe,40,8,83
 Beltrán Zepeda Yadira Monserrat,40,8,83
 Bernal Caro Jesús Roberto,43,5,90
-Cano Corvera Jesus Enrique,33,15,69
+Cano Corvera Jesus Enrique,38,10,79
 Cazarez Jimenez Juan Gabriel,36,12,75
 Cervantes Hernández José Felipe,41,7,85
 Chavez Ambriz Christofer Jesus,44,4,92
@@ -127,7 +127,7 @@ Melchor Sarabia Jesus Antonio,10,6,9,8,10,10,8.8
 Moreno Franco Jaime Alejandro,8,8,9,9,10,8,8.7
 Núñez Avena Héctor de Jesús,10,10,8,10,10,0,8
 Olivas Bueno Jennifer,10,9,9,10,8,10,9.3
-Perez Ontiveros Reynaldo Aldair,0,0,10,8,0,0,3
+Perez Ontiveros Reynaldo Aldair,10,10,10,8,0,0,6.3
 Ramirez De la o Josue Alberto,10,0,8,0,0,0,3
 Rodríguez Alvarado José Emmanuel,0,10,10,10,0,0,5
 Rodriguez Martínez Jesús Eduardo,0,6,10,10,0,0,4.3
@@ -245,7 +245,7 @@ Barraza Acosta José Sebastián,10
 Barroso Salas Ximena Guadalupe,10
 Beltrán Zepeda Yadira Monserrat,10
 Bernal Caro Jesús Roberto,10
-Cano Corvera Jesus Enrique,0
+Cano Corvera Jesus Enrique,6
 Cazarez Jimenez Juan Gabriel,0
 Cervantes Hernández José Felipe,10
 Chavez Ambriz Christofer Jesus,10
@@ -266,19 +266,19 @@ Lopez Urías Yahir Yojhary,9
 Medina Herrera Daniel Valentin ,0
 Melchor Sarabia Jesus Antonio,10
 Moreno Franco Jaime Alejandro,10
-Núñez Avena Héctor de Jesús,0
+Núñez Avena Héctor de Jesús,6
 Olivas Bueno Jennifer,10
-Perez Ontiveros Reynaldo Aldair,0
-Ramirez De la o Josue Alberto,0
+Perez Ontiveros Reynaldo Aldair,8
+Ramirez De la o Josue Alberto,8
 Rodríguez Alvarado José Emmanuel,10
 Rodriguez Martínez Jesús Eduardo,9
 Sánchez Morales Josué Abelardo,9
-Santos Contreras Brian Alejandro,0
+Santos Contreras Brian Alejandro,8
 Tapia Pérez Jesus Noe ,9
 Valdez Leal Roberto Carlos,9
 Vazquez Godoy Gerardo Neftali,10
 Villarreal Zazueta Victor,10
-Zavala Mata Martín de Jesús,0
+Zavala Mata Martín de Jesús,10
 Zazueta Arce Alfonso,8
 
 Examen: Examen
@@ -292,7 +292,7 @@ Barraza Acosta José Sebastián,7,4.4,9,6.7
 Barroso Salas Ximena Guadalupe,9,5.6,10,7.8
 Beltrán Zepeda Yadira Monserrat,16,10,10,10
 Bernal Caro Jesús Roberto,12,7.5,9,8.25
-Cano Corvera Jesus Enrique,14,8.8,9,0
+Cano Corvera Jesus Enrique,14,8.8,9,8.9
 Cazarez Jimenez Juan Gabriel,10,6.3,0,3.15
 Cervantes Hernández José Felipe,12,7.5,10,8.75
 Chavez Ambriz Christofer Jesus,14,8.8,9,8.9
@@ -307,7 +307,7 @@ Gonzalez Valenzuela Brenda Nayeli,12,7.5,10,8.75
 GUERRERO DIAZ CARLOS ADOLFO,5,3.1,10,6.55
 HIGUERA ÁVILA CESAR,10,6.3,10,8.15
 Juárez Sánchez David Eduardo,13,8.1,9,8.55
-Landeros Aispuro Javier Eduardo ,10,6.3,Pendiente,
+Landeros Aispuro Javier Eduardo ,10,6.3,9,7.65
 Loaiza Ramirez Jose Fernando,10,6.3,9,0
 Lopez Urías Yahir Yojhary,11,6.9,10,8.45
 Medina Herrera Daniel Valentin ,12,7.5,0,0
@@ -318,7 +318,7 @@ Olivas Bueno Jennifer,10,6.3,10,8.15
 Perez Ontiveros Reynaldo Aldair,9,5.6,9,7.3
 Ramirez De la o Josue Alberto,14,8.8,9,8.9
 Rodríguez Alvarado José Emmanuel,10,6.3,8,7.15
-Rodriguez Martínez Jesús Eduardo,14,8.8,9,0
+Rodriguez Martínez Jesús Eduardo,14,8.8,9,8.9
 Sánchez Morales Josué Abelardo,15,9.4,10,0
 Santos Contreras Brian Alejandro,5,3.1,8,5.55
 Tapia Pérez Jesus Noe ,13,8.1,9,8.55
@@ -332,45 +332,45 @@ Calif Final: Calificación Final
 Nombre,Calificación,Final (Participación)
 Aguilar Perez Axel Manuel ,2.1,2
 Aguiñaga Gamboa Manuel,9.7,10
-Aguirre Mariscal Jesús David,4.3,4
-AISPURO AISPURO ELISA MARILI,9.1,9
+Aguirre Mariscal Jesús David,3.7,4
+AISPURO AISPURO ELISA MARILI,9.1,10
 Audelo Cabanillas Jose Noe,9.6,10
 Barraza Acosta José Sebastián,8.5,9
-Barroso Salas Ximena Guadalupe,8.8,9
+Barroso Salas Ximena Guadalupe,8.8,10
 Beltrán Zepeda Yadira Monserrat,9.8,10
 Bernal Caro Jesús Roberto,9,9
-Cano Corvera Jesus Enrique,2.6,3
+Cano Corvera Jesus Enrique,7.5,8
 Cazarez Jimenez Juan Gabriel,3.9,4
-Cervantes Hernández José Felipe,8.8,9
-Chavez Ambriz Christofer Jesus,8.8,9
+Cervantes Hernández José Felipe,8.8,10
+Chavez Ambriz Christofer Jesus,8.8,10
 Cinco Romero Rodolfo,0.7,1
 Colado Corrales Jorge Armando,5,5
-Diaz Zamora Dante Emmanuel,7.4,7
-Duarte Llanes Gabriel Eduardo,7.9,8
+Diaz Zamora Dante Emmanuel,7.4,8
+Duarte Llanes Gabriel Eduardo,7.9,9
 Fierro Moroyoqui Juan Carlos,8.6,9
-Garcia Lopez Edgar Daniel,8,8
+Garcia Lopez Edgar Daniel,8,9
 Garcia Soto Antonio Sebastian,7.3,7
-Gonzalez Valenzuela Brenda Nayeli,9,9
+Gonzalez Valenzuela Brenda Nayeli,9,10
 GUERRERO DIAZ CARLOS ADOLFO,8,8
 HIGUERA ÁVILA CESAR,5.7,6
-Juárez Sánchez David Eduardo,9.1,9
-Landeros Aispuro Javier Eduardo ,,
+Juárez Sánchez David Eduardo,9.1,10
+Landeros Aispuro Javier Eduardo ,4.8,5
 Loaiza Ramirez Jose Fernando,0.5,1
-Lopez Urías Yahir Yojhary,9,9
+Lopez Urías Yahir Yojhary,9,10
 Medina Herrera Daniel Valentin ,1.6,2
-Melchor Sarabia Jesus Antonio,8.9,9
+Melchor Sarabia Jesus Antonio,8.9,10
 Moreno Franco Jaime Alejandro,8.6,9
-Núñez Avena Héctor de Jesús,6.7,7
-Olivas Bueno Jennifer,8.8,9
-Perez Ontiveros Reynaldo Aldair,4.6,5
-Ramirez De la o Josue Alberto,5.4,5
-Rodríguez Alvarado José Emmanuel,7.3,7
-Rodriguez Martínez Jesús Eduardo,3.8,4
+Núñez Avena Héctor de Jesús,7.9,8
+Olivas Bueno Jennifer,8.8,10
+Perez Ontiveros Reynaldo Aldair,7.1,8
+Ramirez De la o Josue Alberto,7,7
+Rodríguez Alvarado José Emmanuel,7.3,8
+Rodriguez Martínez Jesús Eduardo,7.3,8
 Sánchez Morales Josué Abelardo,4.4,4
-Santos Contreras Brian Alejandro,4.6,5
-Tapia Pérez Jesus Noe ,8.8,9
-Valdez Leal Roberto Carlos,8.6,9
+Santos Contreras Brian Alejandro,6.2,6
+Tapia Pérez Jesus Noe ,8.8,10
+Valdez Leal Roberto Carlos,8.6,10
 Vazquez Godoy Gerardo Neftali,9.5,10
 Villarreal Zazueta Victor,7.8,8
-Zavala Mata Martín de Jesús,7,7
+Zavala Mata Martín de Jesús,9,9
 Zazueta Arce Alfonso,2.5,3
