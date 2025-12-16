@@ -202,7 +202,7 @@ Proyecto: Proyecto
 Nombre,Calificación
 ALVAREZ ESPINOZA VICTOR MANUEL,10
 Alvizu Zazueta Jesús Eduardo ,9
-Amador Manjarréz Juan José ,0
+Amador Manjarréz Juan José ,7
 Ayala Hernandez Luis Angel,0
 Benitez Valenzuela Zaid,9
 Campaña Silvas Esteban Baltazar,10
@@ -242,7 +242,7 @@ Examen: Examen
 Nombre,Aciertos Ex. 1 (16 en total),Promedio Ex. 1,Promedio Ex. 2,Promedio Examenes (Cero en el caso de menos de 70% asistencias)
 ALVAREZ ESPINOZA VICTOR MANUEL,5,3.1,,0
 Alvizu Zazueta Jesús Eduardo ,9,5.6,8,6.8
-Amador Manjarréz Juan José ,14,8.8,,0
+Amador Manjarréz Juan José ,14,8.8,0,4.4
 Ayala Hernandez Luis Angel,0,0,,0
 Benitez Valenzuela Zaid,6,3.8,7,5.4
 Campaña Silvas Esteban Baltazar,12,7.5,10,8.75
@@ -278,11 +278,11 @@ Torres Moreno Christian Oswaldo,9,5.6,,0
 Villa Gastelum Roberto Carlos,9,5.6,,0
 Angulo Santos Rolando Guillermo,7,4.4,,0
 
-Calif Final: Examen
+Calif Final: Calificación Final
 Nombre,Calificación,Final (Participación)
 ALVAREZ ESPINOZA VICTOR MANUEL,3.9,4
 Alvizu Zazueta Jesús Eduardo ,7.8,8
-Amador Manjarréz Juan José ,1.6,2
+Amador Manjarréz Juan José ,4.8,5
 Ayala Hernandez Luis Angel,1,1
 Benitez Valenzuela Zaid,5.1,5
 Campaña Silvas Esteban Baltazar,9.4,10
